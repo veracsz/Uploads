@@ -1,0 +1,1633 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/69wkngkp4khvpzzvnq8g"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FRIENDS" tvg-logo="" group-title="24/7 CHANNELS",24/7 FRIENDS
+http://fortv.cc:8080/live/Bryants/Love1/66407.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 RICK AND MORTY" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="24/7 CHANNELS",24/7 RICK AND MORTY
+http://fortv.cc:8080/live/Bryants/Love1/66302.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DRAGON BALL Z" tvg-logo="https://i.imgur.com/d9nFqst.png" group-title="24/7 CHANNELS",24/7 DRAGON BALL Z
+http://fortv.cc:8080/live/Bryants/Love1/79572.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FULL HOUSE" tvg-logo="" group-title="24/7 CHANNELS",24/7 FULL HOUSE
+http://fortv.cc:8080/live/Bryants/Love1/66269.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FAMILY GUY" tvg-logo="" group-title="24/7 CHANNELS",24/7 FAMILY GUY
+http://fortv.cc:8080/live/Bryants/Love1/66317.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Thrones" tvg-logo="" group-title="24/7 CHANNELS",Game Of Thrones
+http://fortv.cc:8080/live/Bryants/Love1/66318.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 KEEPING UP WITH THE KARDASHIANS" tvg-logo="" group-title="24/7 CHANNELS",24/7 KEEPING UP WITH THE KARDASHIANS
+http://fortv.cc:8080/live/Bryants/Love1/66403.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FRESH PRINCE OF BEL-AIR" tvg-logo="" group-title="24/7 CHANNELS",24/7 FRESH PRINCE OF BEL-AIR
+http://fortv.cc:8080/live/Bryants/Love1/79559.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE FIRST 48HRS" tvg-logo="" group-title="24/7 CHANNELS",24/7 THE FIRST 48HRS
+http://fortv.cc:8080/live/Bryants/Love1/66393.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 RIDICULOUSNESS" tvg-logo="" group-title="24/7 CHANNELS",24/7 RIDICULOUSNESS
+http://fortv.cc:8080/live/Bryants/Love1/66397.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SAVED BY THE BELL" tvg-logo="" group-title="24/7 CHANNELS",24/7 SAVED BY THE BELL
+http://fortv.cc:8080/live/Bryants/Love1/66344.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SEINFELD" tvg-logo="" group-title="24/7 CHANNELS",24/7 SEINFELD
+http://fortv.cc:8080/live/Bryants/Love1/66303.ts
+#EXTINF:-1 tvg-id="SouthPark.us" tvg-name="South Park*" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG00286RVY.png_dark_360w_270h.png" group-title="24/7 CHANNELS",South Park*
+http://fortv.cc:8080/live/Bryants/Love1/66401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 PAW PATROL" tvg-logo="" group-title="24/7 CHANNELS",24/7 PAW PATROL
+http://fortv.cc:8080/live/Bryants/Love1/66311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The KING OF QUEENS" tvg-logo="" group-title="24/7 CHANNELS",The KING OF QUEENS
+http://fortv.cc:8080/live/Bryants/Love1/79567.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knight Rider*" tvg-logo="" group-title="24/7 CHANNELS",Knight Rider*
+http://fortv.cc:8080/live/Bryants/Love1/83700.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: ANIMATION" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: ANIMATION
+http://fortv.cc:8080/live/Bryants/Love1/119420.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: BLOCKBUSTERS" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: BLOCKBUSTERS
+http://fortv.cc:8080/live/Bryants/Love1/119421.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: CLASSIC" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: CLASSIC
+http://fortv.cc:8080/live/Bryants/Love1/119422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: COMEDY" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: COMEDY
+http://fortv.cc:8080/live/Bryants/Love1/119423.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: CULT" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: CULT
+http://fortv.cc:8080/live/Bryants/Love1/119424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: FAMILY" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: FAMILY
+http://fortv.cc:8080/live/Bryants/Love1/119425.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: GREATS" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: GREATS
+http://fortv.cc:8080/live/Bryants/Love1/119426.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: GREATS TWO" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: GREATS TWO
+http://fortv.cc:8080/live/Bryants/Love1/119427.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: HISTORICAL" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: HISTORICAL
+http://fortv.cc:8080/live/Bryants/Love1/119428.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Horror Movies" tvg-logo="" group-title="24/7 CHANNELS",24/7 Horror Movies
+http://fortv.cc:8080/live/Bryants/Love1/119429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: MUSICAL" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: MUSICAL
+http://fortv.cc:8080/live/Bryants/Love1/119430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: MYSTERY" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: MYSTERY
+http://fortv.cc:8080/live/Bryants/Love1/119431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: PREMIERE" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: PREMIERE
+http://fortv.cc:8080/live/Bryants/Love1/119432.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: ROMANCE" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: ROMANCE
+http://fortv.cc:8080/live/Bryants/Love1/119433.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: SCI-FI" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: SCI-FI
+http://fortv.cc:8080/live/Bryants/Love1/119434.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: WESTERN" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: WESTERN
+http://fortv.cc:8080/live/Bryants/Love1/119435.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: HITS" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: HITS
+http://fortv.cc:8080/live/Bryants/Love1/119436.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEBOX: THRILLER" tvg-logo="" group-title="24/7 CHANNELS",CINEBOX: THRILLER
+http://fortv.cc:8080/live/Bryants/Love1/119437.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: 7NEWS SPOTLIGHT" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: 7NEWS SPOTLIGHT
+http://fortv.cc:8080/live/Bryants/Love1/119438.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: ALL DOCUMENTERY" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: ALL DOCUMENTERY
+http://fortv.cc:8080/live/Bryants/Love1/119439.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: DISCOVERY" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: DISCOVERY
+http://fortv.cc:8080/live/Bryants/Love1/119440.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: DW DOCUMENTERY" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: DW DOCUMENTERY
+http://fortv.cc:8080/live/Bryants/Love1/119441.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FREE DOCUMENTERY" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: FREE DOCUMENTERY
+http://fortv.cc:8080/live/Bryants/Love1/119442.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FREE DOCUMENTERY ANILAMS" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: FREE DOCUMENTERY ANILAMS
+http://fortv.cc:8080/live/Bryants/Love1/119443.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: FRONTLINE PBS" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: FRONTLINE PBS
+http://fortv.cc:8080/live/Bryants/Love1/119444.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: NAT GEO WILD" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: NAT GEO WILD
+http://fortv.cc:8080/live/Bryants/Love1/119447.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: NETFLIX" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: NETFLIX
+http://fortv.cc:8080/live/Bryants/Love1/119448.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: REAL CRIME" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: REAL CRIME
+http://fortv.cc:8080/live/Bryants/Love1/119449.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DOCUBOX: REAL WILD" tvg-logo="" group-title="24/7 CHANNELS",DOCUBOX: REAL WILD
+http://fortv.cc:8080/live/Bryants/Love1/119451.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE GOLDEN GIRLS" tvg-logo="" group-title="24/7 CHANNELS",24/7 THE GOLDEN GIRLS
+http://fortv.cc:8080/live/Bryants/Love1/120948.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE FLINTSTONES" tvg-logo="" group-title="24/7 CHANNELS",24/7 THE FLINTSTONES
+http://fortv.cc:8080/live/Bryants/Love1/120949.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 COMEDY MOVIES" tvg-logo="" group-title="24/7 CHANNELS",24/7 COMEDY MOVIES
+http://fortv.cc:8080/live/Bryants/Love1/121096.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 STAR TREK" tvg-logo="" group-title="24/7 CHANNELS",24/7 STAR TREK
+http://fortv.cc:8080/live/Bryants/Love1/121115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 FAMILY MATTERS" tvg-logo="" group-title="24/7 CHANNELS",24/7 FAMILY MATTERS
+http://fortv.cc:8080/live/Bryants/Love1/125634.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 TOM AND JERRY" tvg-logo="" group-title="24/7 CHANNELS",24/7 TOM AND JERRY
+http://fortv.cc:8080/live/Bryants/Love1/125635.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 DUCK TALES" tvg-logo="" group-title="24/7 CHANNELS",24/7 DUCK TALES
+http://fortv.cc:8080/live/Bryants/Love1/125636.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 TEEN TITANS GO!" tvg-logo="" group-title="24/7 CHANNELS",24/7 TEEN TITANS GO!
+http://fortv.cc:8080/live/Bryants/Love1/125637.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 LOONEY TUNES" tvg-logo="" group-title="24/7 CHANNELS",24/7 LOONEY TUNES
+http://fortv.cc:8080/live/Bryants/Love1/125638.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 THE SOPRANOS" tvg-logo="" group-title="24/7 CHANNELS",24/7 THE SOPRANOS
+http://fortv.cc:8080/live/Bryants/Love1/125971.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 SEX IN THE CITY" tvg-logo="" group-title="24/7 CHANNELS",24/7 SEX IN THE CITY
+http://fortv.cc:8080/live/Bryants/Love1/125972.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 GUNSMOKE" tvg-logo="" group-title="24/7 CHANNELS",24/7 GUNSMOKE
+http://fortv.cc:8080/live/Bryants/Love1/140069.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Adventure Time" tvg-logo="" group-title="24/7 CHANNELS",24/7 Adventure Time
+http://fortv.cc:8080/live/Bryants/Love1/178879.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 American Crime Story" tvg-logo="" group-title="24/7 CHANNELS",24/7 American Crime Story
+http://fortv.cc:8080/live/Bryants/Love1/178876.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Bar Rescue" tvg-logo="" group-title="24/7 CHANNELS",24/7 Bar Rescue
+http://fortv.cc:8080/live/Bryants/Love1/178865.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Biography: WWE Legends" tvg-logo="" group-title="24/7 CHANNELS",24/7 Biography: WWE Legends
+http://fortv.cc:8080/live/Bryants/Love1/178860.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Chuck" tvg-logo="" group-title="24/7 CHANNELS",24/7 Chuck
+http://fortv.cc:8080/live/Bryants/Love1/178845.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Action" tvg-logo="" group-title="24/7 CHANNELS",M4: Action
+http://fortv.cc:8080/live/Bryants/Love1/215269.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Adventure" tvg-logo="" group-title="24/7 CHANNELS",M4: Adventure
+http://fortv.cc:8080/live/Bryants/Love1/215270.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Alien" tvg-logo="" group-title="24/7 CHANNELS",M4: Alien
+http://fortv.cc:8080/live/Bryants/Love1/215271.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Animation" tvg-logo="" group-title="24/7 CHANNELS",M4: Animation
+http://fortv.cc:8080/live/Bryants/Love1/215272.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Avengers" tvg-logo="" group-title="24/7 CHANNELS",M4: Avengers
+http://fortv.cc:8080/live/Bryants/Love1/215273.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Batman" tvg-logo="" group-title="24/7 CHANNELS",M4: Batman
+http://fortv.cc:8080/live/Bryants/Love1/215274.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Biography" tvg-logo="" group-title="24/7 CHANNELS",M4: Biography
+http://fortv.cc:8080/live/Bryants/Love1/215275.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Blade" tvg-logo="" group-title="24/7 CHANNELS",M4: Blade
+http://fortv.cc:8080/live/Bryants/Love1/215276.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Blade Runner" tvg-logo="" group-title="24/7 CHANNELS",M4: Blade Runner
+http://fortv.cc:8080/live/Bryants/Love1/215277.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Comedy" tvg-logo="" group-title="24/7 CHANNELS",M4: Comedy
+http://fortv.cc:8080/live/Bryants/Love1/215278.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Creature" tvg-logo="" group-title="24/7 CHANNELS",M4: Creature
+http://fortv.cc:8080/live/Bryants/Love1/215279.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Crime" tvg-logo="" group-title="24/7 CHANNELS",M4: Crime
+http://fortv.cc:8080/live/Bryants/Love1/215280.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Deadpool" tvg-logo="" group-title="24/7 CHANNELS",M4: Deadpool
+http://fortv.cc:8080/live/Bryants/Love1/215281.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Die Hard" tvg-logo="" group-title="24/7 CHANNELS",M4: Die Hard
+http://fortv.cc:8080/live/Bryants/Love1/215282.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Drama" tvg-logo="" group-title="24/7 CHANNELS",M4: Drama
+http://fortv.cc:8080/live/Bryants/Love1/215283.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Epic" tvg-logo="" group-title="24/7 CHANNELS",M4: Epic
+http://fortv.cc:8080/live/Bryants/Love1/215284.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Family" tvg-logo="" group-title="24/7 CHANNELS",M4: Family
+http://fortv.cc:8080/live/Bryants/Love1/215285.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Fantasy" tvg-logo="" group-title="24/7 CHANNELS",M4: Fantasy
+http://fortv.cc:8080/live/Bryants/Love1/215286.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Fast and the Furious" tvg-logo="" group-title="24/7 CHANNELS",M4: Fast and the Furious
+http://fortv.cc:8080/live/Bryants/Love1/215287.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Final Destination" tvg-logo="" group-title="24/7 CHANNELS",M4: Final Destination
+http://fortv.cc:8080/live/Bryants/Love1/215288.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Ghostbusters" tvg-logo="" group-title="24/7 CHANNELS",M4: Ghostbusters
+http://fortv.cc:8080/live/Bryants/Love1/215289.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Hangover" tvg-logo="" group-title="24/7 CHANNELS",M4: Hangover
+http://fortv.cc:8080/live/Bryants/Love1/215290.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Harry Potter" tvg-logo="" group-title="24/7 CHANNELS",M4: Harry Potter
+http://fortv.cc:8080/live/Bryants/Love1/215291.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: History" tvg-logo="" group-title="24/7 CHANNELS",M4: History
+http://fortv.cc:8080/live/Bryants/Love1/215292.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Horror" tvg-logo="" group-title="24/7 CHANNELS",M4: Horror
+http://fortv.cc:8080/live/Bryants/Love1/215293.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Ice Age" tvg-logo="" group-title="24/7 CHANNELS",M4: Ice Age
+http://fortv.cc:8080/live/Bryants/Love1/215294.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Indiana Jones" tvg-logo="" group-title="24/7 CHANNELS",M4: Indiana Jones
+http://fortv.cc:8080/live/Bryants/Love1/215295.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: James Bond (007)" tvg-logo="" group-title="24/7 CHANNELS",M4: James Bond (007)
+http://fortv.cc:8080/live/Bryants/Love1/215296.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: John Wick" tvg-logo="" group-title="24/7 CHANNELS",M4: John Wick
+http://fortv.cc:8080/live/Bryants/Love1/215297.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jurassic Park" tvg-logo="" group-title="24/7 CHANNELS",M4: Jurassic Park
+http://fortv.cc:8080/live/Bryants/Love1/215298.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Kingsman" tvg-logo="" group-title="24/7 CHANNELS",M4: Kingsman
+http://fortv.cc:8080/live/Bryants/Love1/215299.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Legendary" tvg-logo="" group-title="24/7 CHANNELS",M4: Legendary
+http://fortv.cc:8080/live/Bryants/Love1/215300.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mad Max" tvg-logo="" group-title="24/7 CHANNELS",M4: Mad Max
+http://fortv.cc:8080/live/Bryants/Love1/215301.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Maze Runner" tvg-logo="" group-title="24/7 CHANNELS",M4: Maze Runner
+http://fortv.cc:8080/live/Bryants/Love1/215302.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Men in Black" tvg-logo="" group-title="24/7 CHANNELS",M4: Men in Black
+http://fortv.cc:8080/live/Bryants/Love1/215303.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mission Impossible" tvg-logo="" group-title="24/7 CHANNELS",M4: Mission Impossible
+http://fortv.cc:8080/live/Bryants/Love1/215304.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Musical" tvg-logo="" group-title="24/7 CHANNELS",M4: Musical
+http://fortv.cc:8080/live/Bryants/Love1/215305.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mystery" tvg-logo="" group-title="24/7 CHANNELS",M4: Mystery
+http://fortv.cc:8080/live/Bryants/Love1/215306.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mythological" tvg-logo="" group-title="24/7 CHANNELS",M4: Mythological
+http://fortv.cc:8080/live/Bryants/Love1/215307.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Oceans Eleven" tvg-logo="" group-title="24/7 CHANNELS",M4: Oceans Eleven
+http://fortv.cc:8080/live/Bryants/Love1/215308.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Pirates of the Caribbean" tvg-logo="" group-title="24/7 CHANNELS",M4: Pirates of the Caribbean
+http://fortv.cc:8080/live/Bryants/Love1/215309.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Planet of Apes" tvg-logo="" group-title="24/7 CHANNELS",M4: Planet of Apes
+http://fortv.cc:8080/live/Bryants/Love1/215310.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Post-Apocalyptic" tvg-logo="" group-title="24/7 CHANNELS",M4: Post-Apocalyptic
+http://fortv.cc:8080/live/Bryants/Love1/215311.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Resident Evil" tvg-logo="" group-title="24/7 CHANNELS",M4: Resident Evil
+http://fortv.cc:8080/live/Bryants/Love1/215312.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Robot" tvg-logo="" group-title="24/7 CHANNELS",M4: Robot
+http://fortv.cc:8080/live/Bryants/Love1/215313.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Rocky" tvg-logo="" group-title="24/7 CHANNELS",M4: Rocky
+http://fortv.cc:8080/live/Bryants/Love1/215314.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Romantic" tvg-logo="" group-title="24/7 CHANNELS",M4: Romantic
+http://fortv.cc:8080/live/Bryants/Love1/215315.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Saw" tvg-logo="" group-title="24/7 CHANNELS",M4: Saw
+http://fortv.cc:8080/live/Bryants/Love1/215316.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Science Fiction" tvg-logo="" group-title="24/7 CHANNELS",M4: Science Fiction
+http://fortv.cc:8080/live/Bryants/Love1/215317.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Sherlock Holmes" tvg-logo="" group-title="24/7 CHANNELS",M4: Sherlock Holmes
+http://fortv.cc:8080/live/Bryants/Love1/215318.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Shrek" tvg-logo="" group-title="24/7 CHANNELS",M4: Shrek
+http://fortv.cc:8080/live/Bryants/Love1/215319.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Space" tvg-logo="" group-title="24/7 CHANNELS",M4: Space
+http://fortv.cc:8080/live/Bryants/Love1/215320.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Spiderman" tvg-logo="" group-title="24/7 CHANNELS",M4: Spiderman
+http://fortv.cc:8080/live/Bryants/Love1/215321.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Sports" tvg-logo="" group-title="24/7 CHANNELS",M4: Sports
+http://fortv.cc:8080/live/Bryants/Love1/215322.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Spy" tvg-logo="" group-title="24/7 CHANNELS",M4: Spy
+http://fortv.cc:8080/live/Bryants/Love1/215323.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Star Wars" tvg-logo="" group-title="24/7 CHANNELS",M4: Star Wars
+http://fortv.cc:8080/live/Bryants/Love1/215324.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Superhero" tvg-logo="" group-title="24/7 CHANNELS",M4: Superhero
+http://fortv.cc:8080/live/Bryants/Love1/215325.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Survival" tvg-logo="" group-title="24/7 CHANNELS",M4: Survival
+http://fortv.cc:8080/live/Bryants/Love1/215326.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Bourne" tvg-logo="" group-title="24/7 CHANNELS",M4: The Bourne
+http://fortv.cc:8080/live/Bryants/Love1/215327.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Conjuring" tvg-logo="" group-title="24/7 CHANNELS",M4: The Conjuring
+http://fortv.cc:8080/live/Bryants/Love1/215328.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Expendables" tvg-logo="" group-title="24/7 CHANNELS",M4: The Expendables
+http://fortv.cc:8080/live/Bryants/Love1/215329.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Godfather" tvg-logo="" group-title="24/7 CHANNELS",M4: The Godfather
+http://fortv.cc:8080/live/Bryants/Love1/215330.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Hobbit" tvg-logo="" group-title="24/7 CHANNELS",M4: The Hobbit
+http://fortv.cc:8080/live/Bryants/Love1/215331.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Hunger Games" tvg-logo="" group-title="24/7 CHANNELS",M4: The Hunger Games
+http://fortv.cc:8080/live/Bryants/Love1/215332.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Karete Kid" tvg-logo="" group-title="24/7 CHANNELS",M4: The Karete Kid
+http://fortv.cc:8080/live/Bryants/Love1/215333.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Lord of The Rings" tvg-logo="" group-title="24/7 CHANNELS",M4: The Lord of The Rings
+http://fortv.cc:8080/live/Bryants/Love1/215334.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Matrix" tvg-logo="" group-title="24/7 CHANNELS",M4: The Matrix
+http://fortv.cc:8080/live/Bryants/Love1/215335.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Mummy" tvg-logo="" group-title="24/7 CHANNELS",M4: The Mummy
+http://fortv.cc:8080/live/Bryants/Love1/215336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Purge" tvg-logo="" group-title="24/7 CHANNELS",M4: The Purge
+http://fortv.cc:8080/live/Bryants/Love1/215337.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: The Terminator" tvg-logo="" group-title="24/7 CHANNELS",M4: The Terminator
+http://fortv.cc:8080/live/Bryants/Love1/215338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Three Flavours Cornetto" tvg-logo="" group-title="24/7 CHANNELS",M4: Three Flavours Cornetto
+http://fortv.cc:8080/live/Bryants/Love1/215339.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Thriller" tvg-logo="" group-title="24/7 CHANNELS",M4: Thriller
+http://fortv.cc:8080/live/Bryants/Love1/215340.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Toy Story" tvg-logo="" group-title="24/7 CHANNELS",M4: Toy Story
+http://fortv.cc:8080/live/Bryants/Love1/215341.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Transformers" tvg-logo="" group-title="24/7 CHANNELS",M4: Transformers
+http://fortv.cc:8080/live/Bryants/Love1/215342.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Transporter" tvg-logo="" group-title="24/7 CHANNELS",M4: Transporter
+http://fortv.cc:8080/live/Bryants/Love1/215343.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Twilight Saga" tvg-logo="" group-title="24/7 CHANNELS",M4: Twilight Saga
+http://fortv.cc:8080/live/Bryants/Love1/215344.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: War" tvg-logo="" group-title="24/7 CHANNELS",M4: War
+http://fortv.cc:8080/live/Bryants/Love1/215345.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Western" tvg-logo="" group-title="24/7 CHANNELS",M4: Western
+http://fortv.cc:8080/live/Bryants/Love1/215346.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: X-Men" tvg-logo="" group-title="24/7 CHANNELS",M4: X-Men
+http://fortv.cc:8080/live/Bryants/Love1/215347.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Zombie" tvg-logo="" group-title="24/7 CHANNELS",M4: Zombie
+http://fortv.cc:8080/live/Bryants/Love1/215348.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Benedict Cumberbatch" tvg-logo="" group-title="24/7 CHANNELS",M4: Benedict Cumberbatch
+http://fortv.cc:8080/live/Bryants/Love1/215349.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Bradley Cooper" tvg-logo="" group-title="24/7 CHANNELS",M4: Bradley Cooper
+http://fortv.cc:8080/live/Bryants/Love1/215350.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Christian Bale" tvg-logo="" group-title="24/7 CHANNELS",M4: Christian Bale
+http://fortv.cc:8080/live/Bryants/Love1/215351.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Cillian Murphy" tvg-logo="" group-title="24/7 CHANNELS",M4: Cillian Murphy
+http://fortv.cc:8080/live/Bryants/Love1/215352.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Edward Norton" tvg-logo="" group-title="24/7 CHANNELS",M4: Edward Norton
+http://fortv.cc:8080/live/Bryants/Love1/215353.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Hugh Jackman" tvg-logo="" group-title="24/7 CHANNELS",M4: Hugh Jackman
+http://fortv.cc:8080/live/Bryants/Love1/215354.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jack Nicholson" tvg-logo="" group-title="24/7 CHANNELS",M4: Jack Nicholson
+http://fortv.cc:8080/live/Bryants/Love1/215355.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jake Gyllenhaal" tvg-logo="" group-title="24/7 CHANNELS",M4: Jake Gyllenhaal
+http://fortv.cc:8080/live/Bryants/Love1/215356.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jamie Foxx" tvg-logo="" group-title="24/7 CHANNELS",M4: Jamie Foxx
+http://fortv.cc:8080/live/Bryants/Love1/215357.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jeff Bridges" tvg-logo="" group-title="24/7 CHANNELS",M4: Jeff Bridges
+http://fortv.cc:8080/live/Bryants/Love1/215358.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jim Carrey" tvg-logo="" group-title="24/7 CHANNELS",M4: Jim Carrey
+http://fortv.cc:8080/live/Bryants/Love1/215359.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Johnny Depp" tvg-logo="" group-title="24/7 CHANNELS",M4: Johnny Depp
+http://fortv.cc:8080/live/Bryants/Love1/215360.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Keanu Reeves" tvg-logo="" group-title="24/7 CHANNELS",M4: Keanu Reeves
+http://fortv.cc:8080/live/Bryants/Love1/215361.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Liam Neeson" tvg-logo="" group-title="24/7 CHANNELS",M4: Liam Neeson
+http://fortv.cc:8080/live/Bryants/Love1/215362.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mark Wahlberg" tvg-logo="" group-title="24/7 CHANNELS",M4: Mark Wahlberg
+http://fortv.cc:8080/live/Bryants/Love1/215363.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Matt Damon" tvg-logo="" group-title="24/7 CHANNELS",M4: Matt Damon
+http://fortv.cc:8080/live/Bryants/Love1/215364.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Micheal Caine" tvg-logo="" group-title="24/7 CHANNELS",M4: Micheal Caine
+http://fortv.cc:8080/live/Bryants/Love1/215365.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Morgan Freeman" tvg-logo="" group-title="24/7 CHANNELS",M4: Morgan Freeman
+http://fortv.cc:8080/live/Bryants/Love1/215366.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Russell Crowe" tvg-logo="" group-title="24/7 CHANNELS",M4: Russell Crowe
+http://fortv.cc:8080/live/Bryants/Love1/215367.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Ryan Reynolds" tvg-logo="" group-title="24/7 CHANNELS",M4: Ryan Reynolds
+http://fortv.cc:8080/live/Bryants/Love1/215368.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Samuel L. Jakson" tvg-logo="" group-title="24/7 CHANNELS",M4: Samuel L. Jakson
+http://fortv.cc:8080/live/Bryants/Love1/215369.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Tom Cruise" tvg-logo="" group-title="24/7 CHANNELS",M4: Tom Cruise
+http://fortv.cc:8080/live/Bryants/Love1/215370.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Tom Hanks" tvg-logo="" group-title="24/7 CHANNELS",M4: Tom Hanks
+http://fortv.cc:8080/live/Bryants/Love1/215371.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Will Smith" tvg-logo="" group-title="24/7 CHANNELS",M4: Will Smith
+http://fortv.cc:8080/live/Bryants/Love1/215372.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Adam Sandler" tvg-logo="" group-title="24/7 CHANNELS",M4: Adam Sandler
+http://fortv.cc:8080/live/Bryants/Love1/215373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Arnold Schwarzenegger" tvg-logo="" group-title="24/7 CHANNELS",M4: Arnold Schwarzenegger
+http://fortv.cc:8080/live/Bryants/Love1/215374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Daniel Craig" tvg-logo="" group-title="24/7 CHANNELS",M4: Daniel Craig
+http://fortv.cc:8080/live/Bryants/Love1/215375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Dwayne Johnson" tvg-logo="" group-title="24/7 CHANNELS",M4: Dwayne Johnson
+http://fortv.cc:8080/live/Bryants/Love1/215376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Gerard Butler" tvg-logo="" group-title="24/7 CHANNELS",M4: Gerard Butler
+http://fortv.cc:8080/live/Bryants/Love1/215377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jackie Chan" tvg-logo="" group-title="24/7 CHANNELS",M4: Jackie Chan
+http://fortv.cc:8080/live/Bryants/Love1/215378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jason Statham" tvg-logo="" group-title="24/7 CHANNELS",M4: Jason Statham
+http://fortv.cc:8080/live/Bryants/Love1/215379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Kevin Hart" tvg-logo="" group-title="24/7 CHANNELS",M4: Kevin Hart
+http://fortv.cc:8080/live/Bryants/Love1/215380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Orlando Bloom" tvg-logo="" group-title="24/7 CHANNELS",M4: Orlando Bloom
+http://fortv.cc:8080/live/Bryants/Love1/215381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Sylvester Stallone" tvg-logo="" group-title="24/7 CHANNELS",M4: Sylvester Stallone
+http://fortv.cc:8080/live/Bryants/Love1/215382.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Tom Hardy" tvg-logo="" group-title="24/7 CHANNELS",M4: Tom Hardy
+http://fortv.cc:8080/live/Bryants/Love1/215383.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Amy Adams" tvg-logo="" group-title="24/7 CHANNELS",M4: Amy Adams
+http://fortv.cc:8080/live/Bryants/Love1/215384.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Anne Hathaway" tvg-logo="" group-title="24/7 CHANNELS",M4: Anne Hathaway
+http://fortv.cc:8080/live/Bryants/Love1/215385.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Brie Larson" tvg-logo="" group-title="24/7 CHANNELS",M4: Brie Larson
+http://fortv.cc:8080/live/Bryants/Love1/215386.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Cate Blanchett" tvg-logo="" group-title="24/7 CHANNELS",M4: Cate Blanchett
+http://fortv.cc:8080/live/Bryants/Love1/215387.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Charlize Theron" tvg-logo="" group-title="24/7 CHANNELS",M4: Charlize Theron
+http://fortv.cc:8080/live/Bryants/Love1/215388.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Halle Berry" tvg-logo="" group-title="24/7 CHANNELS",M4: Halle Berry
+http://fortv.cc:8080/live/Bryants/Love1/215389.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Helen Mirren" tvg-logo="" group-title="24/7 CHANNELS",M4: Helen Mirren
+http://fortv.cc:8080/live/Bryants/Love1/215390.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Brad Pitt" tvg-logo="" group-title="24/7 CHANNELS",M4: Brad Pitt
+http://fortv.cc:8080/live/Bryants/Love1/215391.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Al Pacino" tvg-logo="" group-title="24/7 CHANNELS",M4: Al Pacino
+http://fortv.cc:8080/live/Bryants/Love1/215392.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Denzel Washington" tvg-logo="" group-title="24/7 CHANNELS",M4: Denzel Washington
+http://fortv.cc:8080/live/Bryants/Love1/215393.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Vin Diesel" tvg-logo="" group-title="24/7 CHANNELS",M4: Vin Diesel
+http://fortv.cc:8080/live/Bryants/Love1/215394.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Bruce Willis" tvg-logo="" group-title="24/7 CHANNELS",M4: Bruce Willis
+http://fortv.cc:8080/live/Bryants/Love1/215395.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Robert Downey Jr" tvg-logo="" group-title="24/7 CHANNELS",M4: Robert Downey Jr
+http://fortv.cc:8080/live/Bryants/Love1/215396.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Leonardo DiCaprio" tvg-logo="" group-title="24/7 CHANNELS",M4: Leonardo DiCaprio
+http://fortv.cc:8080/live/Bryants/Love1/215397.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Angelina Jolie" tvg-logo="" group-title="24/7 CHANNELS",M4: Angelina Jolie
+http://fortv.cc:8080/live/Bryants/Love1/215398.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Alicia Vikander" tvg-logo="" group-title="24/7 CHANNELS",M4: Alicia Vikander
+http://fortv.cc:8080/live/Bryants/Love1/215399.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Emma Stone" tvg-logo="" group-title="24/7 CHANNELS",M4: Emma Stone
+http://fortv.cc:8080/live/Bryants/Love1/215400.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Emma Watson" tvg-logo="" group-title="24/7 CHANNELS",M4: Emma Watson
+http://fortv.cc:8080/live/Bryants/Love1/215401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jennifer Lawrence" tvg-logo="" group-title="24/7 CHANNELS",M4: Jennifer Lawrence
+http://fortv.cc:8080/live/Bryants/Love1/215402.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Julia Roberts" tvg-logo="" group-title="24/7 CHANNELS",M4: Julia Roberts
+http://fortv.cc:8080/live/Bryants/Love1/215403.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Julianne Moore" tvg-logo="" group-title="24/7 CHANNELS",M4: Julianne Moore
+http://fortv.cc:8080/live/Bryants/Love1/215404.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Kate Winslet" tvg-logo="" group-title="24/7 CHANNELS",M4: Kate Winslet
+http://fortv.cc:8080/live/Bryants/Love1/215405.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Keira Knightley" tvg-logo="" group-title="24/7 CHANNELS",M4: Keira Knightley
+http://fortv.cc:8080/live/Bryants/Love1/215406.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Kristen Stewart" tvg-logo="" group-title="24/7 CHANNELS",M4: Kristen Stewart
+http://fortv.cc:8080/live/Bryants/Love1/215407.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Lupita Nyong` o" tvg-logo="" group-title="24/7 CHANNELS",M4: Lupita Nyong` o
+http://fortv.cc:8080/live/Bryants/Love1/215408.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Margot Robbie" tvg-logo="" group-title="24/7 CHANNELS",M4: Margot Robbie
+http://fortv.cc:8080/live/Bryants/Love1/215409.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Meryl Streep" tvg-logo="" group-title="24/7 CHANNELS",M4: Meryl Streep
+http://fortv.cc:8080/live/Bryants/Love1/215410.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Michelle Pfeiffer" tvg-logo="" group-title="24/7 CHANNELS",M4: Michelle Pfeiffer
+http://fortv.cc:8080/live/Bryants/Love1/215411.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Natalie Portman" tvg-logo="" group-title="24/7 CHANNELS",M4: Natalie Portman
+http://fortv.cc:8080/live/Bryants/Love1/215412.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Nicole Kidman" tvg-logo="" group-title="24/7 CHANNELS",M4: Nicole Kidman
+http://fortv.cc:8080/live/Bryants/Love1/215413.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Rachel McAdams" tvg-logo="" group-title="24/7 CHANNELS",M4: Rachel McAdams
+http://fortv.cc:8080/live/Bryants/Love1/215414.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Reese Witherspoon" tvg-logo="" group-title="24/7 CHANNELS",M4: Reese Witherspoon
+http://fortv.cc:8080/live/Bryants/Love1/215415.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Salma Hayek" tvg-logo="" group-title="24/7 CHANNELS",M4: Salma Hayek
+http://fortv.cc:8080/live/Bryants/Love1/215416.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Sandra Bullock" tvg-logo="" group-title="24/7 CHANNELS",M4: Sandra Bullock
+http://fortv.cc:8080/live/Bryants/Love1/215417.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Saoirse Ronan" tvg-logo="" group-title="24/7 CHANNELS",M4: Saoirse Ronan
+http://fortv.cc:8080/live/Bryants/Love1/215418.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Scarlett Johansson" tvg-logo="" group-title="24/7 CHANNELS",M4: Scarlett Johansson
+http://fortv.cc:8080/live/Bryants/Love1/215419.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Viola Davis" tvg-logo="" group-title="24/7 CHANNELS",M4: Viola Davis
+http://fortv.cc:8080/live/Bryants/Love1/215420.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Cameron Diaz" tvg-logo="" group-title="24/7 CHANNELS",M4: Cameron Diaz
+http://fortv.cc:8080/live/Bryants/Love1/215421.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Catherine Zeta-Jones" tvg-logo="" group-title="24/7 CHANNELS",M4: Catherine Zeta-Jones
+http://fortv.cc:8080/live/Bryants/Love1/215422.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Drew Barrymore" tvg-logo="" group-title="24/7 CHANNELS",M4: Drew Barrymore
+http://fortv.cc:8080/live/Bryants/Love1/215423.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Eva Green" tvg-logo="" group-title="24/7 CHANNELS",M4: Eva Green
+http://fortv.cc:8080/live/Bryants/Love1/215424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jennifer Aniston" tvg-logo="" group-title="24/7 CHANNELS",M4: Jennifer Aniston
+http://fortv.cc:8080/live/Bryants/Love1/215425.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Jessica Alba" tvg-logo="" group-title="24/7 CHANNELS",M4: Jessica Alba
+http://fortv.cc:8080/live/Bryants/Love1/215426.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Lucy Liu" tvg-logo="" group-title="24/7 CHANNELS",M4: Lucy Liu
+http://fortv.cc:8080/live/Bryants/Love1/215427.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Megan Fox" tvg-logo="" group-title="24/7 CHANNELS",M4: Megan Fox
+http://fortv.cc:8080/live/Bryants/Love1/215428.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Melissa McCarthy" tvg-logo="" group-title="24/7 CHANNELS",M4: Melissa McCarthy
+http://fortv.cc:8080/live/Bryants/Love1/215429.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Mila Kunis" tvg-logo="" group-title="24/7 CHANNELS",M4: Mila Kunis
+http://fortv.cc:8080/live/Bryants/Love1/215430.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Penope Cruz" tvg-logo="" group-title="24/7 CHANNELS",M4: Penope Cruz
+http://fortv.cc:8080/live/Bryants/Love1/215431.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Sigourney Weaver" tvg-logo="" group-title="24/7 CHANNELS",M4: Sigourney Weaver
+http://fortv.cc:8080/live/Bryants/Love1/215432.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M4: Zoe Saldana" tvg-logo="" group-title="24/7 CHANNELS",M4: Zoe Saldana
+http://fortv.cc:8080/live/Bryants/Love1/215433.ts
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="CANADA",MTV
+http://fortv.cc:8080/live/Bryants/Love1/57446.ts
+#EXTINF:-1 tvg-id="mtv.ca" tvg-name="MTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="CANADA",MTV HD
+http://fortv.cc:8080/live/Bryants/Love1/57368.ts
+#EXTINF:-1 tvg-id="mtv2.ca" tvg-name="MTV2 (E)" tvg-logo="https://i.imgur.com/ZtJAmBX.png" group-title="CANADA",MTV2 (E)
+http://fortv.cc:8080/live/Bryants/Love1/57447.ts
+#EXTINF:-1 tvg-id="MuchMusic(English).ca" tvg-name="MUCH MUSIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72139_dark_360w_270h.png" group-title="CANADA",MUCH MUSIC
+http://fortv.cc:8080/live/Bryants/Love1/215268.ts
+#EXTINF:-1 tvg-id="CTVCOMEDYCHANNEL(English).ca" tvg-name="CTV Comedy Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76863_dark_360w_270h.png" group-title="CANADA",CTV Comedy Channel
+http://fortv.cc:8080/live/Bryants/Love1/57408.ts
+#EXTINF:-1 tvg-id="CTVDRAMACHANNEL(English).ca" tvg-name="CTV Drama Channel (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73549_dark_360w_270h.png" group-title="CANADA",CTV Drama Channel (R)
+http://fortv.cc:8080/live/Bryants/Love1/57254.ts
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="CTV SCI-FI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="CANADA",CTV SCI-FI
+http://fortv.cc:8080/live/Bryants/Love1/57464.ts
+#EXTINF:-1 tvg-id="CTVSCIFICHANNEL(English).ca" tvg-name="CTV Sci-Fi Channel (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72484_dark_360w_270h.png" group-title="CANADA",CTV Sci-Fi Channel (B)
+http://fortv.cc:8080/live/Bryants/Love1/57253.ts
+#EXTINF:-1 tvg-id="documentary(English).ca" tvg-name="documentary HD (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26784_dark_360w_270h.png" group-title="CANADA",documentary HD (B)
+http://fortv.cc:8080/live/Bryants/Love1/148610.ts
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! (R)" tvg-logo="" group-title="CANADA",E! (R)
+http://fortv.cc:8080/live/Bryants/Love1/57422.ts
+#EXTINF:-1 tvg-id="eentertainment.ca" tvg-name="E! CANADA HD" tvg-logo="" group-title="CANADA",E! CANADA HD
+http://fortv.cc:8080/live/Bryants/Love1/57249.ts
+#EXTINF:-1 tvg-id="FX(English).ca" tvg-name="FX HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73682_dark_360w_270h.png" group-title="CANADA",FX HD
+http://fortv.cc:8080/live/Bryants/Love1/57268.ts
+#EXTINF:-1 tvg-id="FXX(English).ca" tvg-name="FXX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87894_dark_360w_270h.png" group-title="CANADA",FXX
+http://fortv.cc:8080/live/Bryants/Love1/57429.ts
+#EXTINF:-1 tvg-id="HBO(West)(English).ca" tvg-name="HBO 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61777_dark_360w_270h.png" group-title="CANADA",HBO 1
+http://fortv.cc:8080/live/Bryants/Love1/57437.ts
+#EXTINF:-1 tvg-id="hbo2.ca" tvg-name="HBO 2 (R)" tvg-logo="https://i.postimg.cc/J72ggmJZ/hbo2.png" group-title="CANADA",HBO 2 (R)
+http://fortv.cc:8080/live/Bryants/Love1/57438.ts
+#EXTINF:-1 tvg-id="HGTV(English).ca" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167586_dark_360w_270h.png" group-title="CANADA",HGTV
+http://fortv.cc:8080/live/Bryants/Love1/57273.ts
+#EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55097_dark_360w_270h.png" group-title="CANADA",A&E
+http://fortv.cc:8080/live/Bryants/Love1/57476.ts
+#EXTINF:-1 tvg-id="AandE(English).ca" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55097_dark_360w_270h.png" group-title="CANADA",A&E
+http://fortv.cc:8080/live/Bryants/Love1/57264.ts
+#EXTINF:-1 tvg-id="AMC(English).ca" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64831_dark_360w_270h.png" group-title="CANADA",AMC
+http://fortv.cc:8080/live/Bryants/Love1/57376.ts
+#EXTINF:-1 tvg-id="animalplanet.ca" tvg-name="Animal Planet" tvg-logo="https://i.postimg.cc/ZKbSH9KK/animalplanet.png" group-title="CANADA",Animal Planet
+http://fortv.cc:8080/live/Bryants/Love1/57377.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="Bravo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="CANADA",Bravo
+http://fortv.cc:8080/live/Bryants/Love1/57379.ts
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="Ginx esports TV" tvg-logo="https://i.imgur.com/6rlGu3V.png" group-title="CANADA",Ginx esports TV
+http://fortv.cc:8080/live/Bryants/Love1/57431.ts
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17593_dark_360w_270h.png" group-title="CANADA",HISTORY
+http://fortv.cc:8080/live/Bryants/Love1/47302.ts
+#EXTINF:-1 tvg-id="History(English).ca" tvg-name="HISTORY (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17593_dark_360w_270h.png" group-title="CANADA",HISTORY (E)
+http://fortv.cc:8080/live/Bryants/Love1/57272.ts
+#EXTINF:-1 tvg-id="InvestigationDiscovery(English).ca" tvg-name="Investigation Discovery HD (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167589_dark_360w_270h.png" group-title="CANADA",Investigation Discovery HD (E)
+http://fortv.cc:8080/live/Bryants/Love1/57442.ts
+#EXTINF:-1 tvg-id="LoveNature(src01).ca" tvg-name="Love Nature HD" tvg-logo="https://i.postimg.cc/rwZbxkJf/lovenature.png" group-title="CANADA",Love Nature HD
+http://fortv.cc:8080/live/Bryants/Love1/47324.ts
+#EXTINF:-1 tvg-id="NationalGeographic(English).ca" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54743_dark_360w_270h.png" group-title="CANADA",NATIONAL GEOGRAPHIC
+http://fortv.cc:8080/live/Bryants/Love1/47339.ts
+#EXTINF:-1 tvg-id="NationalGeographic(English).ca" tvg-name="National Geographic  HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54743_dark_360w_270h.png" group-title="CANADA",National Geographic  HD
+http://fortv.cc:8080/live/Bryants/Love1/47338.ts
+#EXTINF:-1 tvg-id="NationalGeographicWild(English).ca" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75451_dark_360w_270h.png" group-title="CANADA",National Geographic Wild
+http://fortv.cc:8080/live/Bryants/Love1/57280.ts
+#EXTINF:-1 tvg-id="NationalGeographicWild(English).ca" tvg-name="National Geographic Wild (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75451_dark_360w_270h.png" group-title="CANADA",National Geographic Wild (R)
+http://fortv.cc:8080/live/Bryants/Love1/57450.ts
+#EXTINF:-1 tvg-id="NationalGeographic(English).ca" tvg-name="National Geographics" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s54743_dark_360w_270h.png" group-title="CANADA",National Geographics
+http://fortv.cc:8080/live/Bryants/Love1/57281.ts
+#EXTINF:-1 tvg-id="Showcase(English).ca" tvg-name="Showcase HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53711_dark_360w_270h.png" group-title="CANADA",Showcase HD
+http://fortv.cc:8080/live/Bryants/Love1/47366.ts
+#EXTINF:-1 tvg-id="WILDTV(English).ca" tvg-name="WILD TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66357_dark_360w_270h.png" group-title="CANADA",WILD TV
+http://fortv.cc:8080/live/Bryants/Love1/100456.ts
+#EXTINF:-1 tvg-id="CTVLIFECHANNEL(English).ca" tvg-name="CTV LIFE (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82984_dark_360w_270h.png" group-title="CANADA",CTV LIFE (E)
+http://fortv.cc:8080/live/Bryants/Love1/116506.ts
+#EXTINF:-1 tvg-id="DejaView(English).ca" tvg-name="Dejaview HD (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26873_dark_360w_270h.png" group-title="CANADA",Dejaview HD (B)
+http://fortv.cc:8080/live/Bryants/Love1/122001.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="Golf Channel HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="CANADA",Golf Channel HD
+http://fortv.cc:8080/live/Bryants/Love1/57362.ts
+#EXTINF:-1 tvg-id="a3cine.us" tvg-name="Lifetime Movie Network" tvg-logo="https://i.imgur.com/BWmqYTO.png" group-title="CANADA",Lifetime Movie Network
+http://fortv.cc:8080/live/Bryants/Love1/57444.ts
+#EXTINF:-1 tvg-id="peachtree.ca" tvg-name="Peachtree TV HD (R)" tvg-logo="https://tvnewscheck.com/wp-content/uploads/2023/09/Peachtree_Sports_Network_logo_2023-400x220.png" group-title="CANADA",Peachtree TV HD (R)
+http://fortv.cc:8080/live/Bryants/Love1/47362.ts
+#EXTINF:-1 tvg-id="vision.ca" tvg-name="Vision" tvg-logo="" group-title="CANADA",Vision
+http://fortv.cc:8080/live/Bryants/Love1/57468.ts
+#EXTINF:-1 tvg-id="abcspark.ca" tvg-name="ABC SPARK" tvg-logo="https://i.imgur.com/MOU2PAf.png" group-title="CANADA",ABC SPARK
+http://fortv.cc:8080/live/Bryants/Love1/57375.ts
+#EXTINF:-1 tvg-id="CBCEdmonton(English).ca" tvg-name="CBC Edmonton" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71733_dark_360w_270h.png" group-title="CANADA",CBC Edmonton
+http://fortv.cc:8080/live/Bryants/Love1/57384.ts
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC NEWS NETWORK (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10094_dark_360w_270h.png" group-title="CANADA",CBC NEWS NETWORK (E)
+http://fortv.cc:8080/live/Bryants/Love1/57304.ts
+#EXTINF:-1 tvg-id="CA1#BBC.World.News.North.America.(BBCWN).ca" tvg-name="BBC World News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="CANADA",BBC World News
+http://fortv.cc:8080/live/Bryants/Love1/139752.ts
+#EXTINF:-1 tvg-id="cookingchannel.ca" tvg-name="COOKING Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/512px-Cooking_Channel_Canada.png" group-title="CANADA",COOKING Channel
+http://fortv.cc:8080/live/Bryants/Love1/107960.ts
+#EXTINF:-1 tvg-id="CottageLife(English).ca" tvg-name="Cottage Life HD (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68012_dark_360w_270h.png" group-title="CANADA",Cottage Life HD (B)
+http://fortv.cc:8080/live/Bryants/Love1/47217.ts
+#EXTINF:-1 tvg-id="Crave1(English).ca" tvg-name="CRAVE 1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33382_dark_360w_270h.png" group-title="CANADA",CRAVE 1 HD
+http://fortv.cc:8080/live/Bryants/Love1/57309.ts
+#EXTINF:-1 tvg-id="Crave2(English).ca" tvg-name="CRAVE 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65988_dark_360w_270h.png" group-title="CANADA",CRAVE 2 HD
+http://fortv.cc:8080/live/Bryants/Love1/57310.ts
+#EXTINF:-1 tvg-id="Crave3(English).ca" tvg-name="CRAVE 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65990_dark_360w_270h.png" group-title="CANADA",CRAVE 3
+http://fortv.cc:8080/live/Bryants/Love1/57322.ts
+#EXTINF:-1 tvg-id="Crave4(English).ca" tvg-name="CRAVE 4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21351_dark_360w_270h.png" group-title="CANADA",CRAVE 4 HD
+http://fortv.cc:8080/live/Bryants/Love1/57311.ts
+#EXTINF:-1 tvg-id="crimeinvestigation.ca" tvg-name="CRIME & INVESTIGATION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="CANADA",CRIME & INVESTIGATION
+http://fortv.cc:8080/live/Bryants/Love1/57256.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel(English).ca" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167588_dark_360w_270h.png" group-title="CANADA",Discovery Channel
+http://fortv.cc:8080/live/Bryants/Love1/57252.ts
+#EXTINF:-1 tvg-id="discoveryscience.ca" tvg-name="Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/512px-Discovery_science_new_logo_2017.png" group-title="CANADA",Discovery Science
+http://fortv.cc:8080/live/Bryants/Love1/57418.ts
+#EXTINF:-1 tvg-id="24taas.ca" tvg-name="DIY NETWORK FHD" tvg-logo="" group-title="CANADA",DIY NETWORK FHD
+http://fortv.cc:8080/live/Bryants/Love1/47258.ts
+#EXTINF:-1 tvg-id="DTour(English).ca" tvg-name="DTOUR HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82747_dark_360w_270h.png" group-title="CANADA",DTOUR HD
+http://fortv.cc:8080/live/Bryants/Love1/57250.ts
+#EXTINF:-1 tvg-id="FoodNetwork(English).ca" tvg-name="Food Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s167587_dark_360w_270h.png" group-title="CANADA",Food Network
+http://fortv.cc:8080/live/Bryants/Love1/57247.ts
+#EXTINF:-1 tvg-id="GameShowNetwork(English).ca" tvg-name="Game Show Network HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68827_dark_360w_270h.png" group-title="CANADA",Game Show Network HD
+http://fortv.cc:8080/live/Bryants/Love1/57430.ts
+#EXTINF:-1 tvg-id="BNNBloomberg(English).ca" tvg-name="BNN Bloomberg HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73963_dark_360w_270h.png" group-title="CANADA",BNN Bloomberg HD
+http://fortv.cc:8080/live/Bryants/Love1/57358.ts
+#EXTINF:-1 tvg-id="GlobalEdmonton(English).ca" tvg-name="Global Edmonton (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63641_dark_360w_270h.png" group-title="CANADA",Global Edmonton (D)
+http://fortv.cc:8080/live/Bryants/Love1/132271.ts
+#EXTINF:-1 tvg-id="GlobalEdmonton(English).ca" tvg-name="Global Edmonton News (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63641_dark_360w_270h.png" group-title="CANADA",Global Edmonton News (E)
+http://fortv.cc:8080/live/Bryants/Love1/58724.ts
+#EXTINF:-1 tvg-id="GlobalCalgary(English).ca" tvg-name="Global News Calgary (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63639_dark_360w_270h.png" group-title="CANADA",Global News Calgary (D)
+http://fortv.cc:8080/live/Bryants/Love1/111067.ts
+#EXTINF:-1 tvg-id="CBCCalgary(English).ca" tvg-name="CBC Calgary HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71729_dark_360w_270h.png" group-title="CANADA",CBC Calgary HD
+http://fortv.cc:8080/live/Bryants/Love1/57381.ts
+#EXTINF:-1 tvg-id="CBCOttawa(English).ca" tvg-name="CBC OTTAWA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10084_dark_360w_270h.png" group-title="CANADA",CBC OTTAWA
+http://fortv.cc:8080/live/Bryants/Love1/57305.ts
+#EXTINF:-1 tvg-id="CitytvCalgary(English).ca" tvg-name="CITY TV CALGARY (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s69551_dark_360w_270h.png" group-title="CANADA",CITY TV CALGARY (E)
+http://fortv.cc:8080/live/Bryants/Love1/75652.ts
+#EXTINF:-1 tvg-id="CitytvToronto(English).ca" tvg-name="CITY TV TORONTO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34200_dark_360w_270h.png" group-title="CANADA",CITY TV TORONTO HD
+http://fortv.cc:8080/live/Bryants/Love1/57307.ts
+#EXTINF:-1 tvg-id="CitytvVancouver(English).ca" tvg-name="CITY TV VANCOUVER (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67476_dark_360w_270h.png" group-title="CANADA",CITY TV VANCOUVER (E)
+http://fortv.cc:8080/live/Bryants/Love1/57395.ts
+#EXTINF:-1 tvg-id="CitytvWinnipeg(English).ca" tvg-name="CITY TV WINNIPEG (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71974_dark_360w_270h.png" group-title="CANADA",CITY TV WINNIPEG (E)
+http://fortv.cc:8080/live/Bryants/Love1/100631.ts
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_dark_360w_270h.png" group-title="CANADA",CNN
+http://fortv.cc:8080/live/Bryants/Love1/57398.ts
+#EXTINF:-1 tvg-id="CNN(English).ca" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_dark_360w_270h.png" group-title="CANADA",CNN
+http://fortv.cc:8080/live/Bryants/Love1/47213.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA",CP24 FHD
+http://fortv.cc:8080/live/Bryants/Love1/47218.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA",CP24 HD
+http://fortv.cc:8080/live/Bryants/Love1/57345.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA",CP24 HD
+http://fortv.cc:8080/live/Bryants/Love1/57257.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24 News HD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA",CP24 News HD (D)
+http://fortv.cc:8080/live/Bryants/Love1/57357.ts
+#EXTINF:-1 tvg-id="CablePulse24(CP24)(English).ca" tvg-name="CP24 News HD (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s94289_dark_360w_270h.png" group-title="CANADA",CP24 News HD (E)
+http://fortv.cc:8080/live/Bryants/Love1/57401.ts
+#EXTINF:-1 tvg-id="CTVCalgary(English).ca" tvg-name="CTV CALGARY (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62890_dark_360w_270h.png" group-title="CANADA",CTV CALGARY (E)
+http://fortv.cc:8080/live/Bryants/Love1/57964.ts
+#EXTINF:-1 tvg-id="CTVEdmonton(English).ca" tvg-name="CTV Edmonton Alberta HD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10108_dark_360w_270h.png" group-title="CANADA",CTV Edmonton Alberta HD (D)
+http://fortv.cc:8080/live/Bryants/Love1/58725.ts
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV NEWS CHANNEL HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="CANADA",CTV NEWS CHANNEL HD
+http://fortv.cc:8080/live/Bryants/Love1/57350.ts
+#EXTINF:-1 tvg-id="GlobalCalgary(English).ca" tvg-name="Global Calgary" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63639_dark_360w_270h.png" group-title="CANADA",Global Calgary
+http://fortv.cc:8080/live/Bryants/Love1/115349.ts
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="GLOBAL TORONTO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44792_dark_360w_270h.png" group-title="CANADA",GLOBAL TORONTO
+http://fortv.cc:8080/live/Bryants/Love1/57435.ts
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-name="GLOBAL TORONTO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44792_dark_360w_270h.png" group-title="CANADA",GLOBAL TORONTO
+http://fortv.cc:8080/live/Bryants/Love1/57302.ts
+#EXTINF:-1 tvg-id="GlobalBC(English).ca" tvg-name="Global Vancouver" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60121_dark_360w_270h.png" group-title="CANADA",Global Vancouver
+http://fortv.cc:8080/live/Bryants/Love1/57436.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="MSNBC (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="CANADA",MSNBC (R)
+http://fortv.cc:8080/live/Bryants/Love1/47332.ts
+#EXTINF:-1 tvg-id="HISTORY2(English).ca" tvg-name="H2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26772_dark_360w_270h.png" group-title="CANADA",H2 HD
+http://fortv.cc:8080/live/Bryants/Love1/210450.ts
+#EXTINF:-1 tvg-id="Lifetime(English).ca" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81202_dark_360w_270h.png" group-title="CANADA",Lifetime
+http://fortv.cc:8080/live/Bryants/Love1/57271.ts
+#EXTINF:-1 tvg-id="OMNI1(English).ca" tvg-name="OMNI1 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44788_dark_360w_270h.png" group-title="CANADA",OMNI1 HD
+http://fortv.cc:8080/live/Bryants/Love1/57365.ts
+#EXTINF:-1 tvg-id="5.ca" tvg-name="PBS HD" tvg-logo="https://i.postimg.cc/ZnL6G6KV/pbs.png" group-title="CANADA",PBS HD
+http://fortv.cc:8080/live/Bryants/Love1/57276.ts
+#EXTINF:-1 tvg-id="SilverScreenClassics(English).ca" tvg-name="Silver Screen (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34290_dark_360w_270h.png" group-title="CANADA",Silver Screen (E)
+http://fortv.cc:8080/live/Bryants/Love1/107190.ts
+#EXTINF:-1 tvg-id="SLICE(English).ca" tvg-name="Slice TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s81282_dark_360w_270h.png" group-title="CANADA",Slice TV
+http://fortv.cc:8080/live/Bryants/Love1/57274.ts
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="Sportsnet 360 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="CANADA",Sportsnet 360 (HD)
+http://fortv.cc:8080/live/Bryants/Love1/57299.ts
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="Sportsnet East HD (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png" group-title="CANADA",Sportsnet East HD (F)
+http://fortv.cc:8080/live/Bryants/Love1/57298.ts
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One (FHD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="CANADA",Sportsnet One (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/57297.ts
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="Sportsnet One (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="CANADA",Sportsnet One (HD)
+http://fortv.cc:8080/live/Bryants/Love1/47379.ts
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="Sportsnet Ontario" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png" group-title="CANADA",Sportsnet Ontario
+http://fortv.cc:8080/live/Bryants/Love1/57463.ts
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="Sportsnet Ontario HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png" group-title="CANADA",Sportsnet Ontario HD
+http://fortv.cc:8080/live/Bryants/Love1/57296.ts
+#EXTINF:-1 tvg-id="2MMaroc(French-English).ca" tvg-name="Sportsnet Pacific HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87155_dark_360w_270h.png" group-title="CANADA",Sportsnet Pacific HD
+http://fortv.cc:8080/live/Bryants/Love1/47387.ts
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="SPORTSNET WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png" group-title="CANADA",SPORTSNET WEST
+http://fortv.cc:8080/live/Bryants/Love1/57300.ts
+#EXTINF:-1 tvg-id="tlc.ca" tvg-name="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png" group-title="CANADA",TLC
+http://fortv.cc:8080/live/Bryants/Love1/57290.ts
+#EXTINF:-1 tvg-id="travelescape.ca" tvg-name="Travel Escape" tvg-logo="" group-title="CANADA",Travel Escape
+http://fortv.cc:8080/live/Bryants/Love1/108136.ts
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="TSN 1 (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="CANADA",TSN 1 (R)
+http://fortv.cc:8080/live/Bryants/Love1/47440.ts
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="TSN 2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="CANADA",TSN 2 HD
+http://fortv.cc:8080/live/Bryants/Love1/47442.ts
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="TSN 3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90119_dark_360w_270h.png" group-title="CANADA",TSN 3 HD
+http://fortv.cc:8080/live/Bryants/Love1/47444.ts
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90123_dark_360w_270h.png" group-title="CANADA",TSN 4
+http://fortv.cc:8080/live/Bryants/Love1/66783.ts
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="TSN 4 (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90123_dark_360w_270h.png" group-title="CANADA",TSN 4 (B)
+http://fortv.cc:8080/live/Bryants/Love1/47446.ts
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90125_dark_360w_270h.png" group-title="CANADA",TSN 5
+http://fortv.cc:8080/live/Bryants/Love1/57467.ts
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="TSN 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90125_dark_360w_270h.png" group-title="CANADA",TSN 5
+http://fortv.cc:8080/live/Bryants/Love1/57295.ts
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.ca" tvg-name="World Fishing Network" tvg-logo="https://i.imgur.com/2llPsSV.png" group-title="CANADA",World Fishing Network
+http://fortv.cc:8080/live/Bryants/Love1/57471.ts
+#EXTINF:-1 tvg-id="todaysshoppingchoice.ca" tvg-name="The Shopping Channel (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/%D7%A1%D7%9E%D7%9C%D7%99%D7%9C_%D7%A2%D7%A8%D7%95%D7%A5_%D7%94%D7%A7%D7%A0%D7%99%D7%95%D7%AA.jpg" group-title="CANADA",The Shopping Channel (B)
+http://fortv.cc:8080/live/Bryants/Love1/57370.ts
+#EXTINF:-1 tvg-id="BBCEarth(English).ca" tvg-name="BBC EARTH" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53128_dark_360w_270h.png" group-title="CANADA",BBC EARTH
+http://fortv.cc:8080/live/Bryants/Love1/99621.ts
+#EXTINF:-1 tvg-id="aptn.ca" tvg-name="APTN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/APTN_Colour-300x300.svg/512px-APTN_Colour-300x300.svg.png" group-title="CANADA",APTN
+http://fortv.cc:8080/live/Bryants/Love1/57320.ts
+#EXTINF:-1 tvg-id="CHCH(English).ca" tvg-name="CHCH (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10112_dark_360w_270h.png" group-title="CANADA",CHCH (E)
+http://fortv.cc:8080/live/Bryants/Love1/57393.ts
+#EXTINF:-1 tvg-id="chrgd.ca" tvg-name="CHRGD" tvg-logo="" group-title="CANADA",CHRGD
+http://fortv.cc:8080/live/Bryants/Love1/75653.ts
+#EXTINF:-1 tvg-id="CMT(English).ca" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15072_dark_360w_270h.png" group-title="CANADA",CMT
+http://fortv.cc:8080/live/Bryants/Love1/57258.ts
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CPAC" tvg-logo="" group-title="CANADA",CPAC
+http://fortv.cc:8080/live/Bryants/Love1/57402.ts
+#EXTINF:-1 tvg-id="cpacottawaen.ca" tvg-name="CPAC English" tvg-logo="" group-title="CANADA",CPAC English
+http://fortv.cc:8080/live/Bryants/Love1/57352.ts
+#EXTINF:-1 tvg-id="cpac.ca" tvg-name="CPAC HD" tvg-logo="" group-title="CANADA",CPAC HD
+http://fortv.cc:8080/live/Bryants/Love1/57351.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="CANADA",FOX NEWS
+http://fortv.cc:8080/live/Bryants/Love1/47281.ts
+#EXTINF:-1 tvg-id="HLN(English).ca" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64549_dark_360w_270h.png" group-title="CANADA",HLN
+http://fortv.cc:8080/live/Bryants/Love1/57441.ts
+#EXTINF:-1 tvg-id="HPItv(English).ca" tvg-name="HPItv East HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s106035_dark_360w_270h.png" group-title="CANADA",HPItv East HD
+http://fortv.cc:8080/live/Bryants/Love1/173131.ts
+#EXTINF:-1 tvg-id="makeful.ca" tvg-name="MAKEFUL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Makeful_TV.png" group-title="CANADA",MAKEFUL
+http://fortv.cc:8080/live/Bryants/Love1/57270.ts
+#EXTINF:-1 tvg-id="MovieTime(English).ca" tvg-name="MOVIETIME HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67190_dark_360w_270h.png" group-title="CANADA",MOVIETIME HD
+http://fortv.cc:8080/live/Bryants/Love1/47331.ts
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="NFL NETWORK HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/512px-NFL_Network_logo.svg.png" group-title="CANADA",NFL NETWORK HD
+http://fortv.cc:8080/live/Bryants/Love1/47346.ts
+#EXTINF:-1 tvg-id="ntvcjon.ca" tvg-name="NTV St. John`s" tvg-logo="" group-title="CANADA",NTV St. John`s
+http://fortv.cc:8080/live/Bryants/Love1/57478.ts
+#EXTINF:-1 tvg-id="outdoorlife.ca" tvg-name="OLN (E)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/OLN_logo_2012.png" group-title="CANADA",OLN (E)
+http://fortv.cc:8080/live/Bryants/Love1/57366.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.ca" tvg-name="OWN" tvg-logo="https://i.imgur.com/POYcupb.png" group-title="CANADA",OWN
+http://fortv.cc:8080/live/Bryants/Love1/57277.ts
+#EXTINF:-1 tvg-id="SmithsonianChannel(English).ca" tvg-name="Smithsonian Channel (B)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s53121_dark_360w_270h.png" group-title="CANADA",Smithsonian Channel (B)
+http://fortv.cc:8080/live/Bryants/Love1/47369.ts
+#EXTINF:-1 tvg-id="SuperChannelHeartandHome(English).ca" tvg-name="Super Channel Heart & Home" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58890_dark_360w_270h.png" group-title="CANADA",Super Channel Heart & Home
+http://fortv.cc:8080/live/Bryants/Love1/100460.ts
+#EXTINF:-1 tvg-id="TFO(French).ca" tvg-name="TFO  (FR)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66005_dark_360w_270h.png" group-title="CANADA",TFO  (FR)
+http://fortv.cc:8080/live/Bryants/Love1/57291.ts
+#EXTINF:-1 tvg-id="TVO(English).ca" tvg-name="TV Ontario HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70583_dark_360w_270h.png" group-title="CANADA",TV Ontario HD
+http://fortv.cc:8080/live/Bryants/Love1/57369.ts
+#EXTINF:-1 tvg-id="WNetwork(English).ca" tvg-name="W Network East (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15024_dark_360w_270h.png" group-title="CANADA",W Network East (E)
+http://fortv.cc:8080/live/Bryants/Love1/57284.ts
+#EXTINF:-1 tvg-id="TheWeatherNetwork(English).ca" tvg-name="Weather Network Toronto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72183_dark_360w_270h.png" group-title="CANADA",Weather Network Toronto
+http://fortv.cc:8080/live/Bryants/Love1/57470.ts
+#EXTINF:-1 tvg-id="YesTV(English).ca" tvg-name="YES TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60344_dark_360w_270h.png" group-title="CANADA",YES TV
+http://fortv.cc:8080/live/Bryants/Love1/57472.ts
+#EXTINF:-1 tvg-id="cbnnews.us" tvg-name="US CBSN New York (D)" tvg-logo="" group-title="USA",US CBSN New York (D)
+http://fortv.cc:8080/live/Bryants/Love1/46754.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US FOX Sports 1" tvg-logo="" group-title="USA",US FOX Sports 1
+http://fortv.cc:8080/live/Bryants/Love1/46792.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infowars" tvg-logo="" group-title="USA",Infowars
+http://fortv.cc:8080/live/Bryants/Love1/78578.ts
+#EXTINF:-1 tvg-id="charge.us" tvg-name="US CHARGE!" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102148_dark_360w_270h.png" group-title="USA",US CHARGE!
+http://fortv.cc:8080/live/Bryants/Love1/79594.ts
+#EXTINF:-1 tvg-id="court.us" tvg-name="US  Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA",US  Court TV
+http://fortv.cc:8080/live/Bryants/Love1/21092.ts
+#EXTINF:-1 tvg-id="POP.us" tvg-name="US Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68796_dark_360w_270h.png" group-title="USA",US Pop
+http://fortv.cc:8080/live/Bryants/Love1/20976.ts
+#EXTINF:-1 tvg-id="UniMas(Spanish).us" tvg-name="US UniMas" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29058_dark_360w_270h.png" group-title="USA",US UniMas
+http://fortv.cc:8080/live/Bryants/Love1/57969.ts
+#EXTINF:-1 tvg-id="univision.us" tvg-name="US Univision (East) (SP)" tvg-logo="https://w7.pngwing.com/pngs/618/904/png-transparent-logo-univision-mexico-television-san-antonio-disney-junior-logo-television-text-logo.png" group-title="USA",US Univision (East) (SP)
+http://fortv.cc:8080/live/Bryants/Love1/15336.ts
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA: A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="USA",USA: A&E
+http://fortv.cc:8080/live/Bryants/Love1/59056.ts
+#EXTINF:-1 tvg-id="aande.us" tvg-name="US A&E (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="USA",US A&E (A)
+http://fortv.cc:8080/live/Bryants/Love1/2201.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA",USA: ABC
+http://fortv.cc:8080/live/Bryants/Love1/22990.ts
+#EXTINF:-1 tvg-id="adultswim.us" tvg-name="CA Adult Swim (R)" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" group-title="USA",CA Adult Swim (R)
+http://fortv.cc:8080/live/Bryants/Love1/11644.ts
+#EXTINF:-1 tvg-id="AltitudeSports.us" tvg-name="US Altitude Sports HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="USA",US Altitude Sports HD
+http://fortv.cc:8080/live/Bryants/Love1/79545.ts
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="USA",US AMC
+http://fortv.cc:8080/live/Bryants/Love1/18925.ts
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0022LF21.png_dark_360w_270h.png" group-title="USA",US American Heroes Channel
+http://fortv.cc:8080/live/Bryants/Love1/10456.ts
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="USA",US Animal Planet
+http://fortv.cc:8080/live/Bryants/Love1/17870.ts
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US Antenna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="USA",US Antenna TV
+http://fortv.cc:8080/live/Bryants/Love1/20180.ts
+#EXTINF:-1 tvg-id="ASPiRE.us" tvg-name="US Aspire (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97409_dark_360w_270h.png" group-title="USA",US Aspire (A)
+http://fortv.cc:8080/live/Bryants/Love1/21927.ts
+#EXTINF:-1 tvg-id="axstv.us" tvg-name="US AXS TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28506_dark_360w_270h.png" group-title="USA",US AXS TV
+http://fortv.cc:8080/live/Bryants/Love1/48324.ts
+#EXTINF:-1 tvg-id="BabyFirst(Spanish).us" tvg-name="USA: Baby First HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78831_dark_360w_270h.png" group-title="USA",USA: Baby First HD
+http://fortv.cc:8080/live/Bryants/Love1/58765.ts
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64492_dark_360w_270h.png" group-title="USA",US BBC America
+http://fortv.cc:8080/live/Bryants/Love1/20194.ts
+#EXTINF:-1 tvg-id="bet.us" tvg-name="US BET (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="USA",US BET (East)
+http://fortv.cc:8080/live/Bryants/Love1/46703.ts
+#EXTINF:-1 tvg-id="betgospel.us" tvg-name="USA: Bet Gospel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16484_dark_360w_270h.png" group-title="USA",USA: Bet Gospel
+http://fortv.cc:8080/live/Bryants/Love1/66080.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US BET (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="USA",US BET (East)
+http://fortv.cc:8080/live/Bryants/Love1/13702.ts
+#EXTINF:-1 tvg-id="betsoul.us" tvg-name="USA: BET SOUL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18718_dark_360w_270h.png" group-title="USA",USA: BET SOUL
+http://fortv.cc:8080/live/Bryants/Love1/21844.ts
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="US Bloomberg" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="USA",US Bloomberg
+http://fortv.cc:8080/live/Bryants/Love1/15158.ts
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US Bounce XL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73067_dark_360w_270h.png" group-title="USA",US Bounce XL
+http://fortv.cc:8080/live/Bryants/Love1/48323.ts
+#EXTINF:-1 tvg-id="bravo.us" tvg-name="US Bravo (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="USA",US Bravo (East)
+http://fortv.cc:8080/live/Bryants/Love1/20859.ts
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-name="US BUZZR (STV)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s93430_dark_360w_270h.png" group-title="USA",US BUZZR (STV)
+http://fortv.cc:8080/live/Bryants/Love1/21896.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="US Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="USA",US Cartoon Network
+http://fortv.cc:8080/live/Bryants/Love1/46708.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US CBS News" tvg-logo="" group-title="USA",US CBS News
+http://fortv.cc:8080/live/Bryants/Love1/21259.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA",USA: CMT
+http://fortv.cc:8080/live/Bryants/Love1/46706.ts
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA",USA: CMT HD
+http://fortv.cc:8080/live/Bryants/Love1/10476.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="US CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA",US CNBC
+http://fortv.cc:8080/live/Bryants/Love1/9815.ts
+#EXTINF:-1 tvg-id="cnbcworld.us" tvg-name="US CNBC World" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26849_dark_360w_270h.png" group-title="USA",US CNBC World
+http://fortv.cc:8080/live/Bryants/Love1/20860.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="USA",US CNN
+http://fortv.cc:8080/live/Bryants/Love1/1817.ts
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="US CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="USA",US CNN
+http://fortv.cc:8080/live/Bryants/Love1/104884.ts
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US Comedy Central (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="USA",US Comedy Central (East)
+http://fortv.cc:8080/live/Bryants/Love1/7466.ts
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="USA",US Comet (S)
+http://fortv.cc:8080/live/Bryants/Love1/66244.ts
+#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="US Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="USA",US Cooking Channel
+http://fortv.cc:8080/live/Bryants/Love1/9229.ts
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="US Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA",US Cozi
+http://fortv.cc:8080/live/Bryants/Love1/11868.ts
+#EXTINF:-1 tvg-id="decadeswvah.us" tvg-name="US Decades" tvg-logo="https://decades.com/images/logo_tagline.png" group-title="USA",US Decades
+http://fortv.cc:8080/live/Bryants/Love1/20189.ts
+#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="US Destination America (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16617_dark_360w_270h.png" group-title="USA",US Destination America (A)
+http://fortv.cc:8080/live/Bryants/Love1/14222.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA",US Discovery Channel (East)
+http://fortv.cc:8080/live/Bryants/Love1/46720.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Discovery Channel East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="USA",US Discovery Channel East
+http://fortv.cc:8080/live/Bryants/Love1/9811.ts
+#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="USA",USA: DISCOVERY FAMILY
+http://fortv.cc:8080/live/Bryants/Love1/10538.ts
+#EXTINF:-1 tvg-id="discoverylife.us" tvg-name="USA: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="USA",USA: Discovery Life HD
+http://fortv.cc:8080/live/Bryants/Love1/9861.ts
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="CA Discovery Velocity HD" tvg-logo="" group-title="USA",CA Discovery Velocity HD
+http://fortv.cc:8080/live/Bryants/Love1/46212.ts
+#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-name="US Magnolia Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18544_dark_360w_270h.png" group-title="USA",US Magnolia Network
+http://fortv.cc:8080/live/Bryants/Love1/10503.ts
+#EXTINF:-1 tvg-id="dogtv.us" tvg-name="USA: DOGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82446_dark_360w_270h.png" group-title="USA",USA: DOGTV
+http://fortv.cc:8080/live/Bryants/Love1/53539.ts
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US E! Entertainment Television East" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="USA",US E! Entertainment Television East
+http://fortv.cc:8080/live/Bryants/Love1/11651.ts
+#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="USA: Food Network HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="USA",USA: Food Network HD
+http://fortv.cc:8080/live/Bryants/Love1/7323.ts
+#EXTINF:-1 tvg-id="foxbusiness.us" tvg-name="US Fox Business Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="USA",US Fox Business Network
+http://fortv.cc:8080/live/Bryants/Love1/17639.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News" tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="USA",US Fox News
+http://fortv.cc:8080/live/Bryants/Love1/1818.ts
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US Freeform East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="USA",US Freeform East
+http://fortv.cc:8080/live/Bryants/Love1/13370.ts
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="US Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="USA",US Fuse
+http://fortv.cc:8080/live/Bryants/Love1/46701.ts
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US FX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="USA",US FX East
+http://fortv.cc:8080/live/Bryants/Love1/46690.ts
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US FXM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14988_dark_360w_270h.png" group-title="USA",US FXM
+http://fortv.cc:8080/live/Bryants/Love1/10260.ts
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US FXX (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66379_dark_360w_270h.png" group-title="USA",US FXX (East)
+http://fortv.cc:8080/live/Bryants/Love1/46699.ts
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US FYI" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16834_dark_360w_270h.png" group-title="USA",US FYI
+http://fortv.cc:8080/live/Bryants/Love1/9240.ts
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="US Latin Galavision" tvg-logo="" group-title="USA",US Latin Galavision
+http://fortv.cc:8080/live/Bryants/Love1/58770.ts
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV" tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA",US GetTV
+http://fortv.cc:8080/live/Bryants/Love1/18366.ts
+#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="US Great American Country" tvg-logo="https://www.prizestakes.com/wp-content/uploads/2018/08/47-471x320.png" group-title="USA",US Great American Country
+http://fortv.cc:8080/live/Bryants/Love1/17640.ts
+#EXTINF:-1 tvg-id="grit.us" tvg-name="US Grit TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89922_dark_360w_270h.png" group-title="USA",US Grit TV
+http://fortv.cc:8080/live/Bryants/Love1/20861.ts
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="US Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="USA",US Hallmark Channel
+http://fortv.cc:8080/live/Bryants/Love1/46719.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Hallmark Drama" tvg-logo="https://www.heartlandweekend.com/wp-content/uploads/2019/03/1200x627-Hallmark-Drama-300x157.png" group-title="USA",US Hallmark Drama
+http://fortv.cc:8080/live/Bryants/Love1/9307.ts
+#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-name="US Hallmark Movies & Mysteries" tvg-logo="https://p.kindpng.com/picc/s/196-1969955_hallmark-movies-and-mysteries-channel-logo-hd-png.png" group-title="USA",US Hallmark Movies & Mysteries
+http://fortv.cc:8080/live/Bryants/Love1/10289.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="USA",US HBO East HD
+http://fortv.cc:8080/live/Bryants/Love1/46713.ts
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles)" tvg-logo="" group-title="USA",US Heroes & Icons (Los Angeles)
+http://fortv.cc:8080/live/Bryants/Love1/66087.ts
+#EXTINF:-1 tvg-id="hgtv.us" tvg-name="US HGTV (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="USA",US HGTV (East)
+http://fortv.cc:8080/live/Bryants/Love1/46717.ts
+#EXTINF:-1 tvg-id="History.us" tvg-name="US HISTORY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="USA",US HISTORY
+http://fortv.cc:8080/live/Bryants/Love1/46724.ts
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US History Channel" tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="USA",US History Channel
+http://fortv.cc:8080/live/Bryants/Love1/15017.ts
+#EXTINF:-1 tvg-id="hln.us" tvg-name="US HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="USA",US HLN
+http://fortv.cc:8080/live/Bryants/Love1/17748.ts
+#EXTINF:-1 tvg-id="IFC.us" tvg-name="US IFC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14873_dark_360w_270h.png" group-title="USA",US IFC
+http://fortv.cc:8080/live/Bryants/Love1/9272.ts
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US insp" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11066_dark_360w_270h.png" group-title="USA",US insp
+http://fortv.cc:8080/live/Bryants/Love1/16262.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US ID Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="USA",US ID Investigation Discovery
+http://fortv.cc:8080/live/Bryants/Love1/46810.ts
+#EXTINF:-1 tvg-id="ion.us" tvg-name="US ION" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122912_dark_360w_270h.png" group-title="USA",US ION
+http://fortv.cc:8080/live/Bryants/Love1/9297.ts
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="US Laff (KNVA)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s92091_dark_360w_270h.png" group-title="USA",US Laff (KNVA)
+http://fortv.cc:8080/live/Bryants/Love1/17777.ts
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="US Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA",US Lifetime
+http://fortv.cc:8080/live/Bryants/Love1/46714.ts
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="US Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA",US Lifetime
+http://fortv.cc:8080/live/Bryants/Love1/9275.ts
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="USA",US Lifetime Movie
+http://fortv.cc:8080/live/Bryants/Love1/2208.ts
+#EXTINF:-1 tvg-id="logo.us" tvg-name="USA: LOGO TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="USA",USA: LOGO TV
+http://fortv.cc:8080/live/Bryants/Love1/20862.ts
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA",US MeTV Network East
+http://fortv.cc:8080/live/Bryants/Love1/16149.ts
+#EXTINF:-1 tvg-id="motortrend.us" tvg-name="US MotorTrend (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="USA",US MotorTrend (A)
+http://fortv.cc:8080/live/Bryants/Love1/10399.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="USA",US MSNBC
+http://fortv.cc:8080/live/Bryants/Love1/21376.ts
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="USA",US MSNBC
+http://fortv.cc:8080/live/Bryants/Love1/9296.ts
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="USA",US MTV
+http://fortv.cc:8080/live/Bryants/Love1/9818.ts
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US MTV2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png" group-title="USA",US MTV2
+http://fortv.cc:8080/live/Bryants/Love1/9308.ts
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="USA",US Nat Geo Wild East (A)
+http://fortv.cc:8080/live/Bryants/Love1/11664.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA",US National Geographic
+http://fortv.cc:8080/live/Bryants/Love1/46722.ts
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="US National Geographic (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="USA",US National Geographic (East)
+http://fortv.cc:8080/live/Bryants/Love1/9277.ts
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="USA",USA: NBC
+http://fortv.cc:8080/live/Bryants/Love1/46687.ts
+#EXTINF:-1 tvg-id="NESN4K.us" tvg-name="US NESN" tvg-logo="" group-title="USA",US NESN
+http://fortv.cc:8080/live/Bryants/Love1/46726.ts
+#EXTINF:-1 tvg-id="NewsmaxTV.us" tvg-name="US Newsmax TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87925_dark_360w_270h.png" group-title="USA",US Newsmax TV
+http://fortv.cc:8080/live/Bryants/Love1/18939.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US Nick Jr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="USA",US Nick Jr
+http://fortv.cc:8080/live/Bryants/Love1/46710.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: NTD NEWS." tvg-logo="" group-title="USA",USA: NTD NEWS.
+http://fortv.cc:8080/live/Bryants/Love1/53527.ts
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US One America News" tvg-logo="" group-title="USA",US One America News
+http://fortv.cc:8080/live/Bryants/Love1/21752.ts
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-name="US Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="USA",US Outdoor Channel
+http://fortv.cc:8080/live/Bryants/Love1/9244.ts
+#EXTINF:-1 tvg-id="outsidetv.us" tvg-name="USA: OUTSIDE TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71iXofscZDL.png" group-title="USA",USA: OUTSIDE TV
+http://fortv.cc:8080/live/Bryants/Love1/20865.ts
+#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-name="USA: OWN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70387_dark_360w_270h.png" group-title="USA",USA: OWN
+http://fortv.cc:8080/live/Bryants/Love1/46698.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (A)" tvg-logo="" group-title="USA",US Oxygen (A)
+http://fortv.cc:8080/live/Bryants/Love1/46695.ts
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png" group-title="USA",US Oxygen (East)
+http://fortv.cc:8080/live/Bryants/Love1/9245.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",US Paramount Network
+http://fortv.cc:8080/live/Bryants/Love1/16201.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",US Paramount Network
+http://fortv.cc:8080/live/Bryants/Love1/46694.ts
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",US Paramount TV
+http://fortv.cc:8080/live/Bryants/Love1/10464.ts
+#EXTINF:-1 tvg-id="PixL.us" tvg-name="US PixL (S)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70113_dark_360w_270h.png" group-title="USA",US PixL (S)
+http://fortv.cc:8080/live/Bryants/Love1/21648.ts
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-name="US Pursuit UP" tvg-logo="http://schedulesdirect-api20141201.s3.us-east-1.amazonaws.com/assets/stationLogos/s84542_dark_360w_270h.png" group-title="USA",US Pursuit UP
+http://fortv.cc:8080/live/Bryants/Love1/22888.ts
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US Reelz" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68385_dark_360w_270h.png" group-title="USA",US Reelz
+http://fortv.cc:8080/live/Bryants/Love1/10526.ts
+#EXTINF:-1 tvg-id="revolt.us" tvg-name="US Revolt" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83098_dark_360w_270h.png" group-title="USA",US Revolt
+http://fortv.cc:8080/live/Bryants/Love1/39276.ts
+#EXTINF:-1 tvg-id="rfdtv.us" tvg-name="US RFD-TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63717_dark_360w_270h.png" group-title="USA",US RFD-TV
+http://fortv.cc:8080/live/Bryants/Love1/17868.ts
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Living (S)" tvg-logo="" group-title="USA",US GAC Living (S)
+http://fortv.cc:8080/live/Bryants/Love1/75654.ts
+#EXTINF:-1 tvg-id="amcplus.us" tvg-name="USA: AMC Thrillers" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114759_dark_360w_270h.png" group-title="USA",USA: AMC Thrillers
+http://fortv.cc:8080/live/Bryants/Love1/66243.ts
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="US Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/SCI-network-logo-192x192-v2.png" group-title="USA",US Discovery Science
+http://fortv.cc:8080/live/Bryants/Love1/20866.ts
+#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="US Smithsonian Channel (East)" tvg-logo="" group-title="USA",US Smithsonian Channel (East)
+http://fortv.cc:8080/live/Bryants/Love1/31150.ts
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US Sportsman Channel (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33930_dark_360w_270h.png" group-title="USA",US Sportsman Channel (A)
+http://fortv.cc:8080/live/Bryants/Love1/79913.ts
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="USA",US SUNDANCE
+http://fortv.cc:8080/live/Bryants/Love1/46712.ts
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US Syfy (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="USA",US Syfy (East)
+http://fortv.cc:8080/live/Bryants/Love1/46685.ts
+#EXTINF:-1 tvg-id="trinitybroadcastingnetwork.us" tvg-name="US TBN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14767_dark_360w_270h.png" group-title="USA",US TBN
+http://fortv.cc:8080/live/Bryants/Love1/21895.ts
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="USA",US TBS
+http://fortv.cc:8080/live/Bryants/Love1/20867.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="USA",US Golf Channel
+http://fortv.cc:8080/live/Bryants/Love1/46728.ts
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="US The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="USA",US The Weather Channel
+http://fortv.cc:8080/live/Bryants/Love1/18926.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA",US TLC (East)
+http://fortv.cc:8080/live/Bryants/Love1/46691.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA",US TLC East
+http://fortv.cc:8080/live/Bryants/Love1/12734.ts
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (east)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="USA",US TLC (east)
+http://fortv.cc:8080/live/Bryants/Love1/47703.ts
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="US TNT (West)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s42642_dark_360w_270h.png" group-title="USA",US TNT (West)
+http://fortv.cc:8080/live/Bryants/Love1/46688.ts
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="USA",US TNT East
+http://fortv.cc:8080/live/Bryants/Love1/10455.ts
+#EXTINF:-1 tvg-id="travel.us" tvg-name="US Travel Channel East" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_lpad,h_364,q_50,w_520/v1/clients/chattanooga/Travel_Channel_2019_Logo_41ccc6dd-cc39-4ff9-93a7-a75ca7b509f4.png" group-title="USA",US Travel Channel East
+http://fortv.cc:8080/live/Bryants/Love1/9315.ts
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="US TRUTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="USA",US TRUTV East
+http://fortv.cc:8080/live/Bryants/Love1/10224.ts
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="USA",CA Turner Classic Movies
+http://fortv.cc:8080/live/Bryants/Love1/66242.ts
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US TV Land" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_dark_360w_270h.png" group-title="USA",US TV Land
+http://fortv.cc:8080/live/Bryants/Love1/46696.ts
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA",USA: TV Land Classic HD
+http://fortv.cc:8080/live/Bryants/Love1/9271.ts
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="US TV One" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35513_dark_360w_270h.png" group-title="USA",US TV One
+http://fortv.cc:8080/live/Bryants/Love1/20868.ts
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="US Univision (East) (SP)" tvg-logo="" group-title="USA",US Univision (East) (SP)
+http://fortv.cc:8080/live/Bryants/Love1/46692.ts
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="US Up TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44940_dark_360w_270h.png" group-title="USA",US Up TV
+http://fortv.cc:8080/live/Bryants/Love1/10525.ts
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US USA Network (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="USA",US USA Network (East)
+http://fortv.cc:8080/live/Bryants/Love1/10252.ts
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA",US VH1 (East)
+http://fortv.cc:8080/live/Bryants/Love1/46705.ts
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="USA",US VH1
+http://fortv.cc:8080/live/Bryants/Love1/7404.ts
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US VICELAND" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="USA",US VICELAND
+http://fortv.cc:8080/live/Bryants/Love1/46697.ts
+#EXTINF:-1 tvg-id="WAPAAmerica(Spanish).us" tvg-name="US WAPA America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63389_dark_360w_270h.png" group-title="USA",US WAPA America
+http://fortv.cc:8080/live/Bryants/Love1/76481.ts
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="US WE tv" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16409_dark_360w_270h.png" group-title="USA",US WE tv
+http://fortv.cc:8080/live/Bryants/Love1/9237.ts
+#EXTINF:-1 tvg-id="WorldFishingNetwork(US).us" tvg-name="US World Fishing Network (F)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023XVB5.png_dark_360w_270h.png" group-title="USA",US World Fishing Network (F)
+http://fortv.cc:8080/live/Bryants/Love1/10477.ts
+#EXTINF:-1 tvg-id="TUDN(Spanish).us" tvg-name="US TUDN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75176_dark_360w_270h.png" group-title="USA",US TUDN
+http://fortv.cc:8080/live/Bryants/Love1/82241.ts
+#EXTINF:-1 tvg-id="gacliving.us" tvg-name="US GAC Family" tvg-logo="" group-title="USA",US GAC Family
+http://fortv.cc:8080/live/Bryants/Love1/104877.ts
+#EXTINF:-1 tvg-id="UnivisionTLNovelas(Spanish).us" tvg-name="US Latin Univision" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74550_dark_360w_270h.png" group-title="USA",US Latin Univision
+http://fortv.cc:8080/live/Bryants/Love1/108248.ts
+#EXTINF:-1 tvg-id="qvc.us" tvg-name="US: QVC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11069_dark_360w_270h.png" group-title="USA",US: QVC
+http://fortv.cc:8080/live/Bryants/Love1/117707.ts
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US Game Show Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png" group-title="USA",US Game Show Network
+http://fortv.cc:8080/live/Bryants/Love1/120633.ts
+#EXTINF:-1 tvg-id="truecrimenetwork.us" tvg-name="US True Crime Network (KARE)" tvg-logo="" group-title="USA",US True Crime Network (KARE)
+http://fortv.cc:8080/live/Bryants/Love1/121130.ts
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US The Cowboy Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10188_dark_360w_270h.png" group-title="USA",US The Cowboy Channel
+http://fortv.cc:8080/live/Bryants/Love1/122527.ts
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97051_dark_360w_270h.png" group-title="USA",US Comet
+http://fortv.cc:8080/live/Bryants/Love1/125831.ts
+#EXTINF:-1 tvg-id="militaryhistory.us" tvg-name="US (FD) Military History" tvg-logo="" group-title="USA",US (FD) Military History
+http://fortv.cc:8080/live/Bryants/Love1/134832.ts
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News" tvg-logo="" group-title="USA",US Fox News
+http://fortv.cc:8080/live/Bryants/Love1/135794.ts
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="US: CSPAN FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="USA",US: CSPAN FHD
+http://fortv.cc:8080/live/Bryants/Love1/136589.ts
+#EXTINF:-1 tvg-id="StarTV(German).us" tvg-name="US Start TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28551_dark_360w_270h.png" group-title="USA",US Start TV
+http://fortv.cc:8080/live/Bryants/Love1/137680.ts
+#EXTINF:-1 tvg-id="bether.us" tvg-name="US BET Her" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="USA",US BET Her
+http://fortv.cc:8080/live/Bryants/Love1/137790.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US Poker Go" tvg-logo="" group-title="USA",US Poker Go
+http://fortv.cc:8080/live/Bryants/Love1/140814.ts
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-name="US World Poker Tour" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125051_dark_360w_270h.png" group-title="USA",US World Poker Tour
+http://fortv.cc:8080/live/Bryants/Love1/140815.ts
+#EXTINF:-1 tvg-id="RealAmericasVoice.us" tvg-name="US Real America's Voice (STV)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116186_dark_360w_270h.png" group-title="USA",US Real America's Voice (STV)
+http://fortv.cc:8080/live/Bryants/Love1/160581.ts
+#EXTINF:-1 tvg-id="AlJazeera.us" tvg-name="US Al Jazeera" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s97267_dark_360w_270h.png" group-title="USA",US Al Jazeera
+http://fortv.cc:8080/live/Bryants/Love1/160711.ts
+#EXTINF:-1 tvg-id="newsnation.us" tvg-name="US NewsNation" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91096_dark_360w_270h.png" group-title="USA",US NewsNation
+http://fortv.cc:8080/live/Bryants/Love1/161450.ts
+#EXTINF:-1 tvg-id="FamilyEntertainmentTelevision.us" tvg-name="US Family Entertainment Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73413_dark_360w_270h.png" group-title="USA",US Family Entertainment Television
+http://fortv.cc:8080/live/Bryants/Love1/172481.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US Black News Channel (A)" tvg-logo="" group-title="USA",US Black News Channel (A)
+http://fortv.cc:8080/live/Bryants/Love1/176811.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US  Space City Home Network" tvg-logo="" group-title="USA",US  Space City Home Network
+http://fortv.cc:8080/live/Bryants/Love1/213668.ts
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-name="UK: SKY CINEMA ACTION FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61177_dark_360w_270h.png" group-title="MOVIE NETWORKS",UK: SKY CINEMA ACTION FHD
+http://fortv.cc:8080/live/Bryants/Love1/35254.ts
+#EXTINF:-1 tvg-id="skydrama.uk" tvg-name="UK MOVIES: SKY CINEMA DRAMA" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CINEMA DRAMA
+http://fortv.cc:8080/live/Bryants/Love1/35251.ts
+#EXTINF:-1 tvg-id="SkyCinemaSciFiandHorror.uk" tvg-name="UK Sky Cinema Scifi & Horror FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24041_dark_360w_270h.png" group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD
+http://fortv.cc:8080/live/Bryants/Love1/35248.ts
+#EXTINF:-1 tvg-id="skycomedy.uk" tvg-name="UK MOVIES: SKY COMEDY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png" group-title="MOVIE NETWORKS",UK MOVIES: SKY COMEDY
+http://fortv.cc:8080/live/Bryants/Love1/35253.ts
+#EXTINF:-1 tvg-id="skythriller.uk" tvg-name="UK MOVIES: SKY CRIME THRILLER" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+http://fortv.cc:8080/live/Bryants/Love1/35252.ts
+#EXTINF:-1 tvg-id="SkyGreats(src01).uk" tvg-name="UK MOVIES: SKY GREATS" tvg-logo="" group-title="MOVIE NETWORKS",UK MOVIES: SKY GREATS
+http://fortv.cc:8080/live/Bryants/Love1/35249.ts
+#EXTINF:-1 tvg-id="skypremiere.uk" tvg-name="UK-Sky Cinema Premier" tvg-logo="" group-title="MOVIE NETWORKS",UK-Sky Cinema Premier
+http://fortv.cc:8080/live/Bryants/Love1/35256.ts
+#EXTINF:-1 tvg-id="sony.us" tvg-name="US SONY Movies FHD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1374.1569972429.png" group-title="MOVIE NETWORKS",US SONY Movies FHD
+http://fortv.cc:8080/live/Bryants/Love1/2214.ts
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-name="US Lifetime Movies" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies
+http://fortv.cc:8080/live/Bryants/Love1/20863.ts
+#EXTINF:-1 tvg-id="starzencoreblack.us" tvg-name="US STARZ ENCORE Black" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14870_dark_360w_270h.png" group-title="MOVIE NETWORKS",US STARZ ENCORE Black
+http://fortv.cc:8080/live/Bryants/Love1/16141.ts
+#EXTINF:-1 tvg-id="showtimenext.us" tvg-name="USA:  Showtime NEXT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25270_dark_360w_270h.png" group-title="MOVIE NETWORKS",USA:  Showtime NEXT
+http://fortv.cc:8080/live/Bryants/Love1/9316.ts
+#EXTINF:-1 tvg-id="starzedge.us" tvg-name="USA:  STARZ EDGE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s57573_dark_360w_270h.png" group-title="MOVIE NETWORKS",USA:  STARZ EDGE
+http://fortv.cc:8080/live/Bryants/Love1/16143.ts
+#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US 5 StarMax" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/5max.png" group-title="MOVIE NETWORKS",US 5 StarMax
+http://fortv.cc:8080/live/Bryants/Love1/13381.ts
+#EXTINF:-1 tvg-id="actionmaxpacific.us" tvg-name="US ActionMAX (East)" tvg-logo="" group-title="MOVIE NETWORKS",US ActionMAX (East)
+http://fortv.cc:8080/live/Bryants/Love1/21013.ts
+#EXTINF:-1 tvg-id="cinemax.us" tvg-name="US Cinemax (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s34933_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Cinemax (East)
+http://fortv.cc:8080/live/Bryants/Love1/13380.ts
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East)
+http://fortv.cc:8080/live/Bryants/Love1/13214.ts
+#EXTINF:-1 tvg-id="epixdrivein.us" tvg-name="US Epix Drive IN (S)" tvg-logo="https://logodix.com/logo/1104724.png" group-title="MOVIE NETWORKS",US Epix Drive IN (S)
+http://fortv.cc:8080/live/Bryants/Love1/14193.ts
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://fortv.cc:8080/live/Bryants/Love1/12744.ts
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+http://fortv.cc:8080/live/Bryants/Love1/12730.ts
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MOVIE NETWORKS",US HBO
+http://fortv.cc:8080/live/Bryants/Love1/9264.ts
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+http://fortv.cc:8080/live/Bryants/Love1/9816.ts
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59839_dark_360w_270h.png" group-title="MOVIE NETWORKS",US HBO Comedy (East)
+http://fortv.cc:8080/live/Bryants/Love1/17773.ts
+#EXTINF:-1 tvg-id="hbofamily.us" tvg-name="US HBO Family (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIE NETWORKS",US HBO Family (East)
+http://fortv.cc:8080/live/Bryants/Love1/17772.ts
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East)" tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East)
+http://fortv.cc:8080/live/Bryants/Love1/9266.ts
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East)
+http://fortv.cc:8080/live/Bryants/Love1/9265.ts
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33668_dark_360w_270h.png" group-title="MOVIE NETWORKS",US HDNET MOVIES
+http://fortv.cc:8080/live/Bryants/Love1/16265.ts
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US More Max" tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max
+http://fortv.cc:8080/live/Bryants/Love1/17776.ts
+#EXTINF:-1 tvg-id="movieplex.us" tvg-name="US MoviePlex (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s15295_dark_360w_270h.png" group-title="MOVIE NETWORKS",US MoviePlex (East)
+http://fortv.cc:8080/live/Bryants/Love1/1829.ts
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+http://fortv.cc:8080/live/Bryants/Love1/21012.ts
+#EXTINF:-1 tvg-id="retroplex.us" tvg-name="US RetroPlex (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s65791_dark_360w_270h.png" group-title="MOVIE NETWORKS",US RetroPlex (East)
+http://fortv.cc:8080/live/Bryants/Love1/66379.ts
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East" tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East
+http://fortv.cc:8080/live/Bryants/Love1/46214.ts
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11116_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://fortv.cc:8080/live/Bryants/Love1/13219.ts
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18086_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+http://fortv.cc:8080/live/Bryants/Love1/13220.ts
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25274_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Showtime Family Zone (East)
+http://fortv.cc:8080/live/Bryants/Love1/13481.ts
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25272_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Showtime Women (East)
+http://fortv.cc:8080/live/Bryants/Love1/17778.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
+http://fortv.cc:8080/live/Bryants/Love1/17775.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
+http://fortv.cc:8080/live/Bryants/Love1/9301.ts
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19634_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Starz East (S)
+http://fortv.cc:8080/live/Bryants/Love1/9299.ts
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s102906_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East)
+http://fortv.cc:8080/live/Bryants/Love1/16263.ts
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16833_dark_360w_270h.png" group-title="MOVIE NETWORKS",US Starz in Black (East)
+http://fortv.cc:8080/live/Bryants/Love1/17779.ts
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+http://fortv.cc:8080/live/Bryants/Love1/21091.ts
+#EXTINF:-1 tvg-id="YTV(English).ca" tvg-name="CA YTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70827_dark_360w_270h.png" group-title="KIDS ZONE",CA YTV East
+http://fortv.cc:8080/live/Bryants/Love1/63850.ts
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="CA Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="KIDS ZONE",CA Cartoon Network
+http://fortv.cc:8080/live/Bryants/Love1/57380.ts
+#EXTINF:-1 tvg-id="CartoonNetwork(English).ca" tvg-name="CA Cartoon Network (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s75456_dark_360w_270h.png" group-title="KIDS ZONE",CA Cartoon Network (E)
+http://fortv.cc:8080/live/Bryants/Love1/57356.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="CA Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="KIDS ZONE",CA Disney Junior
+http://fortv.cc:8080/live/Bryants/Love1/57349.ts
+#EXTINF:-1 tvg-id="disneyxd.ca" tvg-name="CA Disney XD (R)" tvg-logo="" group-title="KIDS ZONE",CA Disney XD (R)
+http://fortv.cc:8080/live/Bryants/Love1/57420.ts
+#EXTINF:-1 tvg-id="DiscoveryFamilia(Spanish).us" tvg-name="US Discovery Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s99630_dark_360w_270h.png" group-title="KIDS ZONE",US Discovery Family
+http://fortv.cc:8080/live/Bryants/Love1/57347.ts
+#EXTINF:-1 tvg-id="FamilyJr(English).ca" tvg-name="CA: Family Jr HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80695_dark_360w_270h.png" group-title="KIDS ZONE",CA: Family Jr HD
+http://fortv.cc:8080/live/Bryants/Love1/57346.ts
+#EXTINF:-1 tvg-id="nickelodeon.ca" tvg-name="CA Nickelodeon (R)" tvg-logo="" group-title="KIDS ZONE",CA Nickelodeon (R)
+http://fortv.cc:8080/live/Bryants/Love1/47349.ts
+#EXTINF:-1 tvg-id="teletoon.ca" tvg-name="CA Teletoon East (E)" tvg-logo="" group-title="KIDS ZONE",CA Teletoon East (E)
+http://fortv.cc:8080/live/Bryants/Love1/57372.ts
+#EXTINF:-1 tvg-id="Treehouse(English).ca" tvg-name="CA Treehouse (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80173_dark_360w_270h.png" group-title="KIDS ZONE",CA Treehouse (R)
+http://fortv.cc:8080/live/Bryants/Love1/57371.ts
+#EXTINF:-1 tvg-id="discoverychannel.us" tvg-name="US Disney Channel East (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="KIDS ZONE",US Disney Channel East (A)
+http://fortv.cc:8080/live/Bryants/Love1/2206.ts
+#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="US: Disney XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="KIDS ZONE",US: Disney XD
+http://fortv.cc:8080/live/Bryants/Love1/75621.ts
+#EXTINF:-1 tvg-id="nicktoons.us" tvg-name="US NickToons" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30420_dark_360w_270h.png" group-title="KIDS ZONE",US NickToons
+http://fortv.cc:8080/live/Bryants/Love1/36.ts
+#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="USA-Disney Jr" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="KIDS ZONE",USA-Disney Jr
+http://fortv.cc:8080/live/Bryants/Love1/41960.ts
+#EXTINF:-1 tvg-id="nickelodeon.us" tvg-name="US Nickelodeon East (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS ZONE",US Nickelodeon East (A)
+http://fortv.cc:8080/live/Bryants/Love1/38.ts
+#EXTINF:-1 tvg-id="boomerang.us" tvg-name="US Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="KIDS ZONE",US Boomerang
+http://fortv.cc:8080/live/Bryants/Love1/14741.ts
+#EXTINF:-1 tvg-id="nickjr.us" tvg-name="US Nick JR East (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="KIDS ZONE",US Nick JR East (A)
+http://fortv.cc:8080/live/Bryants/Love1/9807.ts
+#EXTINF:-1 tvg-id="teennick.us" tvg-name="US TeenNick" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59036_dark_360w_270h.png" group-title="KIDS ZONE",US TeenNick
+http://fortv.cc:8080/live/Bryants/Love1/140004.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 15 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 15 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/233922.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 15 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 15 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/233959.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 16 |  8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 16 |  8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/234109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 14 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 14 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/234191.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 16 |  8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 16 |  8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/234208.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 07 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 07 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/234287.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 14 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 14 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/250401.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 02 |   8PM WWE MONDAY NIGHT RAW" tvg-logo="" group-title="PPV | UFC",PPV 02 |   8PM WWE MONDAY NIGHT RAW
+http://fortv.cc:8080/live/Bryants/Love1/250439.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 01: WWE | TUESDAY Night NXT | Mon 21ST Oct 1:00AM wed UK/8:00PM ET" tvg-logo="" group-title="PPV | UFC",PPV 01: WWE | TUESDAY Night NXT | Mon 21ST Oct 1:00AM wed UK/8:00PM ET
+http://fortv.cc:8080/live/Bryants/Love1/253304.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PPV 02: MMA: UAE Warriors 64 (22/10 04:00pm UK | 011:00am ET)" tvg-logo="" group-title="PPV | UFC",PPV 02: MMA: UAE Warriors 64 (22/10 04:00pm UK | 011:00am ET)
+http://fortv.cc:8080/live/Bryants/Love1/253385.ts
+#EXTINF:-1 tvg-id="sportsnet.satellite.digital.ca" tvg-name="CA Sportsnet East (D)" tvg-logo="" group-title="Sports Fanatic's",CA Sportsnet East (D)
+http://fortv.cc:8080/live/Bryants/Love1/41836.ts
+#EXTINF:-1 tvg-id="SportsnetOne(English).ca" tvg-name="CA Sportsnet One (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68859_dark_360w_270h.png" group-title="Sports Fanatic's",CA Sportsnet One (E)
+http://fortv.cc:8080/live/Bryants/Love1/10247.ts
+#EXTINF:-1 tvg-id="TSN4(English).ca" tvg-name="CA TSN 4 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90123_dark_360w_270h.png" group-title="Sports Fanatic's",CA TSN 4 HD
+http://fortv.cc:8080/live/Bryants/Love1/16130.ts
+#EXTINF:-1 tvg-id="Sportsnet360(English).ca" tvg-name="CA Sportsnet 360 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49952_dark_360w_270h.png" group-title="Sports Fanatic's",CA Sportsnet 360 HD
+http://fortv.cc:8080/live/Bryants/Love1/2219.ts
+#EXTINF:-1 tvg-id="SportsnetOntario(English).ca" tvg-name="CA Sportsnet Ontario (FHD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62111_dark_360w_270h.png" group-title="Sports Fanatic's",CA Sportsnet Ontario (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/11649.ts
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA Sportsnet Pacific (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's",CA Sportsnet Pacific (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/9860.ts
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA Sportsnet West (FHD)" tvg-logo="https://juicetv.app/channellogo/sportsnet.png" group-title="Sports Fanatic's",CA Sportsnet West (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/20975.ts
+#EXTINF:-1 tvg-id="SportsnetWorld(English).ca" tvg-name="CA Sportsnet World HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68946_dark_360w_270h.png" group-title="Sports Fanatic's",CA Sportsnet World HD
+http://fortv.cc:8080/live/Bryants/Love1/75675.ts
+#EXTINF:-1 tvg-id="TSN1(English).ca" tvg-name="CA TSN 1 (E)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" group-title="Sports Fanatic's",CA TSN 1 (E)
+http://fortv.cc:8080/live/Bryants/Love1/57292.ts
+#EXTINF:-1 tvg-id="TSN2(English).ca" tvg-name="CA TSN 2 (R)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" group-title="Sports Fanatic's",CA TSN 2 (R)
+http://fortv.cc:8080/live/Bryants/Love1/16129.ts
+#EXTINF:-1 tvg-id="TSN3(English).ca" tvg-name="CA TSN 3 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90119_dark_360w_270h.png" group-title="Sports Fanatic's",CA TSN 3 HD
+http://fortv.cc:8080/live/Bryants/Love1/10389.ts
+#EXTINF:-1 tvg-id="TSN5(English).ca" tvg-name="CA TSN 5 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90125_dark_360w_270h.png" group-title="Sports Fanatic's",CA TSN 5 HD
+http://fortv.cc:8080/live/Bryants/Love1/16131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Carib ESPN" tvg-logo="" group-title="Sports Fanatic's",Carib ESPN
+http://fortv.cc:8080/live/Bryants/Love1/66372.ts
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US Bally Sports Florida (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Florida (A)
+http://fortv.cc:8080/live/Bryants/Love1/46794.ts
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="US Willow Cricket (S)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="Sports Fanatic's",US Willow Cricket (S)
+http://fortv.cc:8080/live/Bryants/Love1/58847.ts
+#EXTINF:-1 tvg-id="sky.sports.arena.gb" tvg-name="UK-Sky Sports Arena" tvg-logo="" group-title="Sports Fanatic's",UK-Sky Sports Arena
+http://fortv.cc:8080/live/Bryants/Love1/35238.ts
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK Sky Sports Golf FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JZLC.png_dark_360w_270h.png" group-title="Sports Fanatic's",UK Sky Sports Golf FHD
+http://fortv.cc:8080/live/Bryants/Love1/35240.ts
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK-Sky Sports Main Event" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JK90.png_dark_360w_270h.png" group-title="Sports Fanatic's",UK-Sky Sports Main Event
+http://fortv.cc:8080/live/Bryants/Love1/35243.ts
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK-Sky Sports News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68347_dark_360w_270h.png" group-title="Sports Fanatic's",UK-Sky Sports News
+http://fortv.cc:8080/live/Bryants/Love1/35241.ts
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="US Willow Cricket (X)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68605_dark_360w_270h.png" group-title="Sports Fanatic's",US Willow Cricket (X)
+http://fortv.cc:8080/live/Bryants/Love1/41979.ts
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK Sky Sports Cricket FHD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JWDT.png_dark_360w_270h.png" group-title="Sports Fanatic's",UK Sky Sports Cricket FHD (D)
+http://fortv.cc:8080/live/Bryants/Love1/45940.ts
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK Sky Sports F1 FHD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="Sports Fanatic's",UK Sky Sports F1 FHD
+http://fortv.cc:8080/live/Bryants/Love1/35244.ts
+#EXTINF:-1 tvg-id="SkySpRacing(src01).uk" tvg-name="UK: SKY SP RACING FHD" tvg-logo="" group-title="Sports Fanatic's",UK: SKY SP RACING FHD
+http://fortv.cc:8080/live/Bryants/Love1/76842.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US Bally Sports Southeast" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Southeast
+http://fortv.cc:8080/live/Bryants/Love1/81111.ts
+#EXTINF:-1 tvg-id="nbc.sports.network.us" tvg-name="US NBC Sports Network (F)" tvg-logo="" group-title="Sports Fanatic's",US NBC Sports Network (F)
+http://fortv.cc:8080/live/Bryants/Love1/46725.ts
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US: WWE NETWORK" tvg-logo="https://seeklogo.com/images/W/wwe-logo-71A46059D8-seeklogo.com.png" group-title="Sports Fanatic's",US: WWE NETWORK
+http://fortv.cc:8080/live/Bryants/Love1/11645.ts
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US Bally Sports Detroit (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Detroit (A)
+http://fortv.cc:8080/live/Bryants/Love1/20930.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Bally Sports Midwest (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Midwest (A)
+http://fortv.cc:8080/live/Bryants/Love1/66795.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Bally Sports Oklahoma (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Oklahoma (A)
+http://fortv.cc:8080/live/Bryants/Love1/20934.ts
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="US Bally Sports Southeast" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports Southeast
+http://fortv.cc:8080/live/Bryants/Love1/2213.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Fanduel Sports Southwest" tvg-logo="" group-title="Sports Fanatic's",US Fanduel Sports Southwest
+http://fortv.cc:8080/live/Bryants/Love1/21843.ts
+#EXTINF:-1 tvg-id="bally.sports.west.us" tvg-name="US FanDuel Sports West (A)" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports West (A)
+http://fortv.cc:8080/live/Bryants/Love1/20932.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FanDuel Sports Wisconsin" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Wisconsin
+http://fortv.cc:8080/live/Bryants/Love1/78599.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="PT Eleven Sports 1 FHD" tvg-logo="" group-title="Sports Fanatic's",PT Eleven Sports 1 FHD
+http://fortv.cc:8080/live/Bryants/Love1/35264.ts
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="US ESPN NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59976_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPN NEWS
+http://fortv.cc:8080/live/Bryants/Love1/17707.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Bally Sports North (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports North (A)
+http://fortv.cc:8080/live/Bryants/Love1/58827.ts
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US Bally Sports Detroit" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports Detroit
+http://fortv.cc:8080/live/Bryants/Love1/20936.ts
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="US FanDuel Sports Ohio" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Ohio
+http://fortv.cc:8080/live/Bryants/Love1/17752.ts
+#EXTINF:-1 tvg-id="MASN.us" tvg-name="US MASN (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s59607_dark_360w_270h.png" group-title="Sports Fanatic's",US MASN (A)
+http://fortv.cc:8080/live/Bryants/Love1/65697.ts
+#EXTINF:-1 tvg-id="MASN2.us" tvg-name="US MASN2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66485_dark_360w_270h.png" group-title="Sports Fanatic's",US MASN2
+http://fortv.cc:8080/live/Bryants/Love1/65698.ts
+#EXTINF:-1 tvg-id="MSG2.us" tvg-name="US MSG2 (F)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70283_dark_360w_270h.png" group-title="Sports Fanatic's",US MSG2 (F)
+http://fortv.cc:8080/live/Bryants/Love1/21089.ts
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US NBC Sports Bay Area (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="Sports Fanatic's",US NBC Sports Bay Area (A)
+http://fortv.cc:8080/live/Bryants/Love1/9900.ts
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="US NBC Sports Boston (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="Sports Fanatic's",US NBC Sports Boston (A)
+http://fortv.cc:8080/live/Bryants/Love1/20939.ts
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US NBC Sports California (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="Sports Fanatic's",US NBC Sports California (A)
+http://fortv.cc:8080/live/Bryants/Love1/20940.ts
+#EXTINF:-1 tvg-id="nbc.sports.chicago.us" tvg-name="US NBC Sports Chicago" tvg-logo="https://img2.pngio.com/chicago-sports-transparent-png-clipart-free-download-ywd-nbc-sports-png-800_625.png" group-title="Sports Fanatic's",US NBC Sports Chicago
+http://fortv.cc:8080/live/Bryants/Love1/20941.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US NBC Sports Network (FHD)" tvg-logo="https://findlogovector.com/wp-content/uploads/2019/03/nbc-sports-logo-vector.png" group-title="Sports Fanatic's",US NBC Sports Network (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/20926.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US NBC Sports Philly (F)" tvg-logo="https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/philadelphia/2019/10/01/logo.png" group-title="Sports Fanatic's",US NBC Sports Philly (F)
+http://fortv.cc:8080/live/Bryants/Love1/20943.ts
+#EXTINF:-1 tvg-id="nbc.sports.washington.us" tvg-name="US NBC Sports Washington (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.png" group-title="Sports Fanatic's",US NBC Sports Washington (F)
+http://fortv.cc:8080/live/Bryants/Love1/20944.ts
+#EXTINF:-1 tvg-id="NewEnglandSportsNetwork.us" tvg-name="US NESN (F)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="Sports Fanatic's",US NESN (F)
+http://fortv.cc:8080/live/Bryants/Love1/31637.ts
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-name="US ESPN SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPN SEC Network
+http://fortv.cc:8080/live/Bryants/Love1/17608.ts
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet LA Dodgers (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="Sports Fanatic's",US Spectrum SportsNet LA Dodgers (HD)
+http://fortv.cc:8080/live/Bryants/Love1/31636.ts
+#EXTINF:-1 tvg-id="spectrum.sportsnet.la.us" tvg-name="US Spectrum SportsNet Lakers (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="Sports Fanatic's",US Spectrum SportsNet Lakers (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/21842.ts
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s60316_dark_360w_270h.png" group-title="Sports Fanatic's",US Tennis Channel
+http://fortv.cc:8080/live/Bryants/Love1/20184.ts
+#EXTINF:-1 tvg-id="YesNetwork.us" tvg-name="US YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="Sports Fanatic's",US YES Network
+http://fortv.cc:8080/live/Bryants/Love1/57972.ts
+#EXTINF:-1 tvg-id="spectrum.sportsnet.us" tvg-name="US Spectrum SportsNet Lakers (FHD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="Sports Fanatic's",US Spectrum SportsNet Lakers (FHD)
+http://fortv.cc:8080/live/Bryants/Love1/20946.ts
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="US ACC Network (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="Sports Fanatic's",US ACC Network (A)
+http://fortv.cc:8080/live/Bryants/Love1/9273.ts
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US Big Ten HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58321_dark_360w_270h.png" group-title="Sports Fanatic's",US Big Ten HD
+http://fortv.cc:8080/live/Bryants/Love1/9828.ts
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="US CBS Sports Network HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports Fanatic's",US CBS Sports Network HD
+http://fortv.cc:8080/live/Bryants/Love1/10454.ts
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPN 2
+http://fortv.cc:8080/live/Bryants/Love1/2210.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPN 1 (HD)
+http://fortv.cc:8080/live/Bryants/Love1/14197.ts
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPN 1 (HD)
+http://fortv.cc:8080/live/Bryants/Love1/9802.ts
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports Fanatic's",US ESPNU College Sports
+http://fortv.cc:8080/live/Bryants/Love1/10255.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="Sports Fanatic's",US Fox Sports 1
+http://fortv.cc:8080/live/Bryants/Love1/1846.ts
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="Sports Fanatic's",US Fox Sports 2 (A)
+http://fortv.cc:8080/live/Bryants/Love1/1847.ts
+#EXTINF:-1 tvg-id="ballysportssarizona.us" tvg-name="US Bally Sports North (A)" tvg-logo="" group-title="Sports Fanatic's",US Bally Sports North (A)
+http://fortv.cc:8080/live/Bryants/Love1/20928.ts
+#EXTINF:-1 tvg-id="ballysportscarolinas.us" tvg-name="US Bally Sports Carolinas (A)" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports Carolinas (A)
+http://fortv.cc:8080/live/Bryants/Love1/20929.ts
+#EXTINF:-1 tvg-id="3abn.latino.houston.tx.us" tvg-name="US Bally Sports South" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2014/12/Fox-Sports-e1498612626748.png" group-title="Sports Fanatic's",US Bally Sports South
+http://fortv.cc:8080/live/Bryants/Love1/20931.ts
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US FanDuel Sports South" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/fox-sports-southeast-logo-vector.png" group-title="Sports Fanatic's",US FanDuel Sports South
+http://fortv.cc:8080/live/Bryants/Love1/20922.ts
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-name="US Marquee Sports Network (HD) (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="Sports Fanatic's",US Marquee Sports Network (HD) (A)
+http://fortv.cc:8080/live/Bryants/Love1/13379.ts
+#EXTINF:-1 tvg-id="mavtv.usa.us" tvg-name="US MAV TV (F)" tvg-logo="https://www.mavtv.com/assets/downloads/mavtv-color.png" group-title="Sports Fanatic's",US MAV TV (F)
+http://fortv.cc:8080/live/Bryants/Love1/20977.ts
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US MSG Plus" tvg-logo="https://billboardmats-m63qtmyjwd.stackpathdns.com/wp-content/uploads/2017/01/MSG-madisonsquaregarden-saftmat-billboardmats.png" group-title="Sports Fanatic's",US MSG Plus
+http://fortv.cc:8080/live/Bryants/Love1/9276.ts
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="US MSG (A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Msg_plus.png/520px-Msg_plus.png" group-title="Sports Fanatic's",US MSG (A)
+http://fortv.cc:8080/live/Bryants/Love1/21090.ts
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Sports Fanatic's",US Golf Channel
+http://fortv.cc:8080/live/Bryants/Love1/9806.ts
+#EXTINF:-1 tvg-id="SportsNetNewYork.us" tvg-name="US Sportsnet New York (SNY) (A)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50038_dark_360w_270h.png" group-title="Sports Fanatic's",US Sportsnet New York (SNY) (A)
+http://fortv.cc:8080/live/Bryants/Love1/20938.ts
+#EXTINF:-1 tvg-id="univisiondeportes.us" tvg-name="US Latin TUDN" tvg-logo="https://www.sportsvideo.org/new/wp-content/uploads/2019/05/TUDN.png" group-title="Sports Fanatic's",US Latin TUDN
+http://fortv.cc:8080/live/Bryants/Love1/11885.ts
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="US TVG Network" tvg-logo="https://theme.zdassets.com/theme_assets/2065024/e6225e6a5baf490c31661291d86a2eb5095a499d.png" group-title="Sports Fanatic's",US TVG Network
+http://fortv.cc:8080/live/Bryants/Love1/10259.ts
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="US TVG2 Network" tvg-logo="https://godish.com/wp-content/uploads/channel-logos/tvg2.png" group-title="Sports Fanatic's",US TVG2 Network
+http://fortv.cc:8080/live/Bryants/Love1/18940.ts
+#EXTINF:-1 tvg-id="vsin.us" tvg-name="US VSiN (F)" tvg-logo="https://www.crossovermediagroup.com/wp-content/uploads/2018/09/vsin.png" group-title="Sports Fanatic's",US VSiN (F)
+http://fortv.cc:8080/live/Bryants/Love1/18941.ts
+#EXTINF:-1 tvg-id="ROOTSports(Northwest).us" tvg-name="US Root Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11062_dark_360w_270h.png" group-title="Sports Fanatic's",US Root Sports Network
+http://fortv.cc:8080/live/Bryants/Love1/85232.ts
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="US FanDuel Sports Sun" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Sun
+http://fortv.cc:8080/live/Bryants/Love1/104917.ts
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US AT&T SportsNet Pittsburgh" tvg-logo="" group-title="Sports Fanatic's",US AT&T SportsNet Pittsburgh
+http://fortv.cc:8080/live/Bryants/Love1/108178.ts
+#EXTINF:-1 tvg-id="onesoccer.ca" tvg-name="CA One Soccer" tvg-logo="" group-title="Sports Fanatic's",CA One Soccer
+http://fortv.cc:8080/live/Bryants/Love1/135810.ts
+#EXTINF:-1 tvg-id="360northanchorage.us" tvg-name="US AT&T SportsNet Southwest (F)" tvg-logo="" group-title="Sports Fanatic's",US AT&T SportsNet Southwest (F)
+http://fortv.cc:8080/live/Bryants/Love1/136909.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS ARENA FHD" tvg-logo="" group-title="Sports Fanatic's",UK: SKY SPORTS ARENA FHD
+http://fortv.cc:8080/live/Bryants/Love1/137719.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JK90.png_dark_360w_270h.png" group-title="Sports Fanatic's",UK: SKY SPORTS MAIN EVENT HD
+http://fortv.cc:8080/live/Bryants/Love1/137720.ts
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="US FanDuel Sports Great Lakes" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Great Lakes
+http://fortv.cc:8080/live/Bryants/Love1/139272.ts
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="US NESN PLUS" tvg-logo="" group-title="Sports Fanatic's",US NESN PLUS
+http://fortv.cc:8080/live/Bryants/Love1/161451.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US (LN) HBCU Go" tvg-logo="" group-title="Sports Fanatic's",US (LN) HBCU Go
+http://fortv.cc:8080/live/Bryants/Love1/209775.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="US FanDuel Sports Socal" tvg-logo="" group-title="Sports Fanatic's",US FanDuel Sports Socal
+http://fortv.cc:8080/live/Bryants/Love1/221151.ts
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="US NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="NHL",US NHL Network
+http://fortv.cc:8080/live/Bryants/Love1/20179.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NHL 01: MTL VS CGY (SN Feed ) @ 8:30 pm" tvg-logo="" group-title="NHL",USA Real NHL 01: MTL VS CGY (SN Feed ) @ 8:30 pm
+http://fortv.cc:8080/live/Bryants/Love1/253386.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NHL 02: MTL VS CGY (RDS Feed ) @ 8:30 pm" tvg-logo="" group-title="NHL",USA Real NHL 02: MTL VS CGY (RDS Feed ) @ 8:30 pm
+http://fortv.cc:8080/live/Bryants/Love1/253387.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NHL 03: Detroit Red Wings vs Buffalo Sabres @ 07:30 PM" tvg-logo="" group-title="NHL",USA Real NHL 03: Detroit Red Wings vs Buffalo Sabres @ 07:30 PM
+http://fortv.cc:8080/live/Bryants/Love1/253388.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NHL 04: Montreal Canadiens vs Calgary Flames @ 08:30 PM" tvg-logo="" group-title="NHL",USA Real NHL 04: Montreal Canadiens vs Calgary Flames @ 08:30 PM
+http://fortv.cc:8080/live/Bryants/Love1/253389.ts
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="MLB",MLB Network
+http://fortv.cc:8080/live/Bryants/Love1/21360.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB Strike Zone" tvg-logo="https://thestreamable.com/media/pages/news/sling-tv-adds-mlb-network-and-mlb-strike-zone-ahead-just-in-time-for-opening-day/de6b7ceff7-1618516374/cut-5-576x324.jpg" group-title="MLB",MLB Strike Zone
+http://fortv.cc:8080/live/Bryants/Love1/65699.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 01 | Dodgers VS Brewers" tvg-logo="" group-title="MLB",MLB 01 | Dodgers VS Brewers
+http://fortv.cc:8080/live/Bryants/Love1/252599.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real MLB 02: Seattle Mariners  vs  Toronto Blue Jays @ 05:03 PM" tvg-logo="" group-title="MLB",USA Real MLB 02: Seattle Mariners  vs  Toronto Blue Jays @ 05:03 PM
+http://fortv.cc:8080/live/Bryants/Love1/252874.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 03:  Dodgers @ Brewers" tvg-logo="" group-title="MLB",MLB 03:  Dodgers @ Brewers
+http://fortv.cc:8080/live/Bryants/Love1/252875.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 01: Toronto Blue Jays @ Seattle Mariners | Home Stream | 6:08 PM ET" tvg-logo="" group-title="MLB",MLB 01: Toronto Blue Jays @ Seattle Mariners | Home Stream | 6:08 PM ET
+http://fortv.cc:8080/live/Bryants/Love1/252999.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 02: Toronto Blue Jays @ Seattle Mariners | Away Stream | 6:08 PM ET" tvg-logo="" group-title="MLB",MLB 02: Toronto Blue Jays @ Seattle Mariners | Away Stream | 6:08 PM ET
+http://fortv.cc:8080/live/Bryants/Love1/253000.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 03: Milwaukee Brewers @ Los Angeles Dodgers | Home Stream | 8:38 PM ET" tvg-logo="" group-title="MLB",MLB 03: Milwaukee Brewers @ Los Angeles Dodgers | Home Stream | 8:38 PM ET
+http://fortv.cc:8080/live/Bryants/Love1/253001.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MLB 04: Milwaukee Brewers @ Los Angeles Dodgers | Away Stream | 8:38 PM ET" tvg-logo="" group-title="MLB",MLB 04: Milwaukee Brewers @ Los Angeles Dodgers | Away Stream | 8:38 PM ET
+http://fortv.cc:8080/live/Bryants/Love1/253002.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="US NFL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="NFL",US NFL Network
+http://fortv.cc:8080/live/Bryants/Love1/83724.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA: NFL NETWORK (1)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="NFL",USA: NFL NETWORK (1)
+http://fortv.cc:8080/live/Bryants/Love1/159091.ts
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA: NFL NETWORK (2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45399_dark_360w_270h.png" group-title="NFL",USA: NFL NETWORK (2)
+http://fortv.cc:8080/live/Bryants/Love1/159117.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="USA: NFL REDZONE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023P84S.png_dark_360w_270h.png" group-title="NFL",USA: NFL REDZONE
+http://fortv.cc:8080/live/Bryants/Love1/159118.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="USA: NFL REDZONE (2)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023P84S.png_dark_360w_270h.png" group-title="NFL",USA: NFL REDZONE (2)
+http://fortv.cc:8080/live/Bryants/Love1/159119.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="NFL REDZONE (US)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023P84S.png_dark_360w_270h.png" group-title="NFL",NFL REDZONE (US)
+http://fortv.cc:8080/live/Bryants/Love1/159120.ts
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-name="USA | NFL REDZONE 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0023P84S.png_dark_360w_270h.png" group-title="NFL",USA | NFL REDZONE 3
+http://fortv.cc:8080/live/Bryants/Love1/208830.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA | NFL" tvg-logo="" group-title="NFL",USA | NFL
+http://fortv.cc:8080/live/Bryants/Love1/208896.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 01: TAMPA BAY BUCCANEERS VS DETROIT LIONS" tvg-logo="" group-title="NFL",NFL 01: TAMPA BAY BUCCANEERS VS DETROIT LIONS
+http://fortv.cc:8080/live/Bryants/Love1/252010.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 02: HOUSTON TEXANS VS SEATTLE SEAHAWKS" tvg-logo="" group-title="NFL",NFL 02: HOUSTON TEXANS VS SEATTLE SEAHAWKS
+http://fortv.cc:8080/live/Bryants/Love1/252011.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 03:LAS VEGAS RAIDERS VS KANSAS CITY CHIEFS" tvg-logo="" group-title="NFL",NFL 03:LAS VEGAS RAIDERS VS KANSAS CITY CHIEFS
+http://fortv.cc:8080/live/Bryants/Love1/252012.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 04: PHILADELPHIA EAGLES VS MINNESOTA VIKINGS" tvg-logo="" group-title="NFL",NFL 04: PHILADELPHIA EAGLES VS MINNESOTA VIKINGS
+http://fortv.cc:8080/live/Bryants/Love1/252013.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 05: CAROLINA PANTHERS VS NEW YORK JETS" tvg-logo="" group-title="NFL",NFL 05: CAROLINA PANTHERS VS NEW YORK JETS
+http://fortv.cc:8080/live/Bryants/Love1/252014.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 06: NEW ENGLAND PATRIOTS VS TENNESSEE TITANS" tvg-logo="" group-title="NFL",NFL 06: NEW ENGLAND PATRIOTS VS TENNESSEE TITANS
+http://fortv.cc:8080/live/Bryants/Love1/252015.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 07: NEW YORK GIANTS VS DENVER BRONCOS" tvg-logo="" group-title="NFL",NFL 07: NEW YORK GIANTS VS DENVER BRONCOS
+http://fortv.cc:8080/live/Bryants/Love1/252016.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 08: INDIANAPOLIS COLTS VS LOS ANGELES CHARGERS" tvg-logo="" group-title="NFL",NFL 08: INDIANAPOLIS COLTS VS LOS ANGELES CHARGERS
+http://fortv.cc:8080/live/Bryants/Love1/252017.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 09: GREEN BAY PACKERS VS ARIZONA CARDINALS" tvg-logo="" group-title="NFL",NFL 09: GREEN BAY PACKERS VS ARIZONA CARDINALS
+http://fortv.cc:8080/live/Bryants/Love1/252018.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 10: Washington Commanders at Dallas Cowboys" tvg-logo="" group-title="NFL",NFL 10: Washington Commanders at Dallas Cowboys
+http://fortv.cc:8080/live/Bryants/Love1/252019.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 11: ATLANTA FALCONS VS SAN FRANCISCO 49ERS" tvg-logo="" group-title="NFL",NFL 11: ATLANTA FALCONS VS SAN FRANCISCO 49ERS
+http://fortv.cc:8080/live/Bryants/Love1/252020.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 12: Detroit Lions at Kansas City Chiefs 8:20pm ET" tvg-logo="" group-title="NFL",NFL 12: Detroit Lions at Kansas City Chiefs 8:20pm ET
+http://fortv.cc:8080/live/Bryants/Love1/252021.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NFL 13: COMMANDERS VS CHARGERS" tvg-logo="" group-title="NFL",NFL 13: COMMANDERS VS CHARGERS
+http://fortv.cc:8080/live/Bryants/Love1/252022.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
+http://fortv.cc:8080/live/Bryants/Love1/22995.ts
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="USA: NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="NBA",USA: NBA TV
+http://fortv.cc:8080/live/Bryants/Love1/20073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 01: Miami Heat @ Orlando Magic | Home Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 01: Miami Heat @ Orlando Magic | Home Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253369.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 01: CLE Cavaliers VS NYK Knicks ( ESPN Feed ) @ 7:00 PM" tvg-logo="" group-title="NBA",USA Real NBA 01: CLE Cavaliers VS NYK Knicks ( ESPN Feed ) @ 7:00 PM
+http://fortv.cc:8080/live/Bryants/Love1/253370.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 02: Miami Heat @ Orlando Magic | Away Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 02: Miami Heat @ Orlando Magic | Away Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253371.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 02: SAS Spurs VS DAL Mavericks ( ESPN Feed ) @ 9:30 PM" tvg-logo="" group-title="NBA",USA Real NBA 02: SAS Spurs VS DAL Mavericks ( ESPN Feed ) @ 9:30 PM
+http://fortv.cc:8080/live/Bryants/Love1/253372.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 03: Brooklyn Nets @ Charlotte Hornets | Home Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 03: Brooklyn Nets @ Charlotte Hornets | Home Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253373.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 03: Brooklyn Nets vs Charlotte Hornets @ 07:00 PM" tvg-logo="" group-title="NBA",USA Real NBA 03: Brooklyn Nets vs Charlotte Hornets @ 07:00 PM
+http://fortv.cc:8080/live/Bryants/Love1/253374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 04: Brooklyn Nets @ Charlotte Hornets | Away Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 04: Brooklyn Nets @ Charlotte Hornets | Away Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 04: Miami Heat vs Orlando Magic @ 07:00 PM" tvg-logo="" group-title="NBA",USA Real NBA 04: Miami Heat vs Orlando Magic @ 07:00 PM
+http://fortv.cc:8080/live/Bryants/Love1/253376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 05: Toronto Raptors vs Atlanta Hawks @ 07:30 PM" tvg-logo="" group-title="NBA",USA Real NBA 05: Toronto Raptors vs Atlanta Hawks @ 07:30 PM
+http://fortv.cc:8080/live/Bryants/Love1/253377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 06: Philadelphia 76ers vs Boston Celtics @ 07:30 PM" tvg-logo="" group-title="NBA",USA Real NBA 06: Philadelphia 76ers vs Boston Celtics @ 07:30 PM
+http://fortv.cc:8080/live/Bryants/Love1/253378.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 07: Detroit Pistons vs Chicago Bulls @ 08:00 PM" tvg-logo="" group-title="NBA",USA Real NBA 07: Detroit Pistons vs Chicago Bulls @ 08:00 PM
+http://fortv.cc:8080/live/Bryants/Love1/253379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA Real NBA 08: New Orleans Pelicans vs Memphis Grizzlies @ 08:00 PM" tvg-logo="" group-title="NBA",USA Real NBA 08: New Orleans Pelicans vs Memphis Grizzlies @ 08:00 PM
+http://fortv.cc:8080/live/Bryants/Love1/253380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 10: Washington Wizards @ Milwaukee Bucks | Away Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 10: Washington Wizards @ Milwaukee Bucks | Away Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 11: New Orleans Pelicans @ Memphis Grizzlies | Home Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 11: New Orleans Pelicans @ Memphis Grizzlies | Home Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253382.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 12: New Orleans Pelicans @ Memphis Grizzlies | Away Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 12: New Orleans Pelicans @ Memphis Grizzlies | Away Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253383.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NBA 13: Detroit Pistons @ Chicago Bulls | Home Stream | 10/22/2025 10:03 ET" tvg-logo="" group-title="NBA",NBA 13: Detroit Pistons @ Chicago Bulls | Home Stream | 10/22/2025 10:03 ET
+http://fortv.cc:8080/live/Bryants/Love1/253384.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: F1-TV FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: F1-TV FHD
+http://fortv.cc:8080/live/Bryants/Love1/125947.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Data" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Data
+http://fortv.cc:8080/live/Bryants/Love1/135044.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Pit Lane" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Pit Lane
+http://fortv.cc:8080/live/Bryants/Love1/135045.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Tracker" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Tracker
+http://fortv.cc:8080/live/Bryants/Love1/135046.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Fernando Alonso Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Fernando Alonso Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135047.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Valtteri Bottas Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Valtteri Bottas Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135048.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Pierre Gasly Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Pierre Gasly Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135049.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Antonio Giovinazzi Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Antonio Giovinazzi Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135050.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Lewis Hamilton Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Lewis Hamilton Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135051.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Nicholas Latifi Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Nicholas Latifi Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135052.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Charles Leclerc Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Charles Leclerc Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135053.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Nikita Mazepin Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Nikita Mazepin Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135054.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Mick Schumacher Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Mick Schumacher Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135055.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Lando Norris Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Lando Norris Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135056.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Esteban Ocon Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Esteban Ocon Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135057.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Sergio Perez Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Sergio Perez Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135058.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Kimi Raikkonen Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Kimi Raikkonen Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135059.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Daniel Ricciardo Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Daniel Ricciardo Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135060.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: George Russell Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: George Russell Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135061.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Carlos Sainz Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Carlos Sainz Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135062.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Lance Stroll Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Lance Stroll Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135063.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Yuki Tsunoda Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Yuki Tsunoda Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135064.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Max Verstappen Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Max Verstappen Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135065.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F1TV: Sebastian Vettel Helmet Camera" tvg-logo="https://logodownload.org/wp-content/uploads/2016/11/formula-1-logo-7.png" group-title="F1 Formula",F1TV: Sebastian Vettel Helmet Camera
+http://fortv.cc:8080/live/Bryants/Love1/135066.ts
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
+http://fortv.cc:8080/live/Bryants/Love1/79108.ts
+#EXTINF:-1 tvg-id="fiveusa.uk" tvg-name="UK-5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-5
+http://fortv.cc:8080/live/Bryants/Love1/53675.ts
+#EXTINF:-1 tvg-id="Alibi(src01).uk" tvg-name="UK-Alibi" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Alibi
+http://fortv.cc:8080/live/Bryants/Love1/59030.ts
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83285_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK: BBC NEWS
+http://fortv.cc:8080/live/Bryants/Love1/53757.ts
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One
+http://fortv.cc:8080/live/Bryants/Love1/53649.ts
+#EXTINF:-1 tvg-id="BBC1Scotland(src01).uk" tvg-name="UK-BBC One Scotland" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One Scotland
+http://fortv.cc:8080/live/Bryants/Love1/53755.ts
+#EXTINF:-1 tvg-id="BBC2(England).uk" tvg-name="UK: BBC TWO HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68113_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+http://fortv.cc:8080/live/Bryants/Love1/53650.ts
+#EXTINF:-1 tvg-id="blaze.uk" tvg-name="UK-Blaze" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s101972_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Blaze
+http://fortv.cc:8080/live/Bryants/Love1/53754.ts
+#EXTINF:-1 tvg-id="bloombergtv.uk" tvg-name="UK-Boomerang" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Boomerang
+http://fortv.cc:8080/live/Bryants/Love1/53718.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.uk" tvg-name="UK-Cartoon Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s78843_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Cartoon Network
+http://fortv.cc:8080/live/Bryants/Love1/53719.ts
+#EXTINF:-1 tvg-id="cbbc.uk" tvg-name="UK-CBBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83281_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-CBBC
+http://fortv.cc:8080/live/Bryants/Love1/53720.ts
+#EXTINF:-1 tvg-id="CBSReality(src01).uk" tvg-name="UK CBS Reality" tvg-logo="" group-title="UK UNITED KINGDOM",UK CBS Reality
+http://fortv.cc:8080/live/Bryants/Love1/53752.ts
+#EXTINF:-1 tvg-id="Channel5(src01).uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Channel 5
+http://fortv.cc:8080/live/Bryants/Love1/53653.ts
+#EXTINF:-1 tvg-id="ComedyCentral(src01).uk" tvg-name="UK-Comedy Central" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Comedy Central
+http://fortv.cc:8080/live/Bryants/Love1/53660.ts
+#EXTINF:-1 tvg-id="crimeandinvestigationnetwork.uk" tvg-name="UK Crime & Investigation FHD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61621_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK Crime & Investigation FHD (D)
+http://fortv.cc:8080/live/Bryants/Love1/53689.ts
+#EXTINF:-1 tvg-id="Dave(src01).uk" tvg-name="UK-Dave" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Dave
+http://fortv.cc:8080/live/Bryants/Love1/53659.ts
+#EXTINF:-1 tvg-id="discoverychannel.uk" tvg-name="UK-Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49613_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Discovery Channel
+http://fortv.cc:8080/live/Bryants/Love1/53684.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK-Discovery History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Discovery History
+http://fortv.cc:8080/live/Bryants/Love1/53694.ts
+#EXTINF:-1 tvg-id="discoveryscience.uk" tvg-name="UK-Discovery Science" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Discovery Science
+http://fortv.cc:8080/live/Bryants/Love1/53695.ts
+#EXTINF:-1 tvg-id="Drama(src01).uk" tvg-name="UK-Drama" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Drama
+http://fortv.cc:8080/live/Bryants/Love1/53677.ts
+#EXTINF:-1 tvg-id="e4.uk" tvg-name="UK-E4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s25117_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-E4
+http://fortv.cc:8080/live/Bryants/Love1/53672.ts
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s72791_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK EuroSport 1 UK (P)
+http://fortv.cc:8080/live/Bryants/Love1/53713.ts
+#EXTINF:-1 tvg-id="film4.uk" tvg-name="UK-Film 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68051_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Film 4
+http://fortv.cc:8080/live/Bryants/Love1/53702.ts
+#EXTINF:-1 tvg-id="history2.uk" tvg-name="UK-H2" tvg-logo="" group-title="UK UNITED KINGDOM",UK-H2
+http://fortv.cc:8080/live/Bryants/Love1/53692.ts
+#EXTINF:-1 tvg-id="discoveryhistory.uk" tvg-name="UK History  Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24280_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK History  Channel
+http://fortv.cc:8080/live/Bryants/Love1/53686.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.uk" tvg-name="UK-Investigation Discovery" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62496_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Investigation Discovery
+http://fortv.cc:8080/live/Bryants/Love1/53687.ts
+#EXTINF:-1 tvg-id="ITV1(Anglia).uk" tvg-name="UK-ITV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21824_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-ITV
+http://fortv.cc:8080/live/Bryants/Love1/53651.ts
+#EXTINF:-1 tvg-id="itv3.uk" tvg-name="UK-ITV 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44643_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-ITV 3
+http://fortv.cc:8080/live/Bryants/Love1/53665.ts
+#EXTINF:-1 tvg-id="itv4.uk" tvg-name="UK-ITV 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48020_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-ITV 4
+http://fortv.cc:8080/live/Bryants/Love1/53666.ts
+#EXTINF:-1 tvg-id="ITV1(Anglia).uk" tvg-name="UK ITV2 HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21824_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK ITV2 HD
+http://fortv.cc:8080/live/Bryants/Love1/53671.ts
+#EXTINF:-1 tvg-id="more4.uk" tvg-name="UK-More4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47657_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-More4
+http://fortv.cc:8080/live/Bryants/Love1/53673.ts
+#EXTINF:-1 tvg-id="mtv.classic.gb" tvg-name="US MTV Classic (A)" tvg-logo="" group-title="UK UNITED KINGDOM",US MTV Classic (A)
+http://fortv.cc:8080/live/Bryants/Love1/53734.ts
+#EXTINF:-1 tvg-id="MTVHits(src01).uk" tvg-name="UK-MTV Hits" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MTV Hits
+http://fortv.cc:8080/live/Bryants/Love1/53735.ts
+#EXTINF:-1 tvg-id="mtv.uk" tvg-name="UK-MTV UK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s80924_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-MTV UK
+http://fortv.cc:8080/live/Bryants/Love1/53737.ts
+#EXTINF:-1 tvg-id="MUTV(src01).uk" tvg-name="UK-MUTV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-MUTV
+http://fortv.cc:8080/live/Bryants/Love1/53717.ts
+#EXTINF:-1 tvg-id="national.geographic.wild.gb" tvg-name="UK-Nat Geo Wild" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Nat Geo Wild
+http://fortv.cc:8080/live/Bryants/Love1/53693.ts
+#EXTINF:-1 tvg-id="nickelodeon.uk" tvg-name="UK: NICKELODEON" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17419_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK: NICKELODEON
+http://fortv.cc:8080/live/Bryants/Love1/53728.ts
+#EXTINF:-1 tvg-id="quest.uk" tvg-name="UK-Quest" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62391_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Quest
+http://fortv.cc:8080/live/Bryants/Love1/53682.ts
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: RACING UK" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RACING UK
+http://fortv.cc:8080/live/Bryants/Love1/53741.ts
+#EXTINF:-1 tvg-id="SkyAnimation(src01).uk" tvg-name="UK-Sky Cinema Animation" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Sky Cinema Animation
+http://fortv.cc:8080/live/Bryants/Love1/53698.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-name="UK-Sky Cinema Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61181_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Sky Cinema Family
+http://fortv.cc:8080/live/Bryants/Love1/53699.ts
+#EXTINF:-1 tvg-id="SkyComedy.uk" tvg-name="UK Sky Cinema Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113612_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK Sky Cinema Comedy
+http://fortv.cc:8080/live/Bryants/Love1/53661.ts
+#EXTINF:-1 tvg-id="skynews.uk" tvg-name="UK: SKY NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16234_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK: SKY NEWS
+http://fortv.cc:8080/live/Bryants/Love1/77166.ts
+#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports Action" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JRWS.png_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-Sky Sports Action
+http://fortv.cc:8080/live/Bryants/Love1/53705.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK Sky Sports F1 FHD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74410_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK Sky Sports F1 FHD (D)
+http://fortv.cc:8080/live/Bryants/Love1/53704.ts
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK Sky Sports Mix FHD (D)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JLEC.png_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK Sky Sports Mix FHD (D)
+http://fortv.cc:8080/live/Bryants/Love1/53706.ts
+#EXTINF:-1 tvg-id="SyFy(src01).uk" tvg-name="UK SKY SciFI FHD (D)" tvg-logo="" group-title="UK UNITED KINGDOM",UK SKY SciFI FHD (D)
+http://fortv.cc:8080/live/Bryants/Love1/53663.ts
+#EXTINF:-1 tvg-id="pop.uk" tvg-name="UK- Pop" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33638_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK- Pop
+http://fortv.cc:8080/live/Bryants/Love1/53730.ts
+#EXTINF:-1 tvg-id="tlc.uk" tvg-name="UK-TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79654_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK-TLC
+http://fortv.cc:8080/live/Bryants/Love1/53681.ts
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50716_dark_360w_270h.png" group-title="UK UNITED KINGDOM",UK: Channel 4
+http://fortv.cc:8080/live/Bryants/Love1/99138.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: CBS JUSTICE" tvg-logo="" group-title="UK UNITED KINGDOM",UK: CBS JUSTICE
+http://fortv.cc:8080/live/Bryants/Love1/134942.ts
+#EXTINF:-1 tvg-id="FOXSPORTS505.au" tvg-name="AU: FOX SPORTS 505" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103075_dark_360w_270h.png" group-title="Australia",AU: FOX SPORTS 505
+http://fortv.cc:8080/live/Bryants/Love1/57771.ts
+#EXTINF:-1 tvg-id="galavision.us" tvg-name="AU Redbull TV" tvg-logo="" group-title="Australia",AU Redbull TV
+http://fortv.cc:8080/live/Bryants/Love1/78424.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Adelaide (D)" tvg-logo="" group-title="Australia",AU 10 Shake Adelaide (D)
+http://fortv.cc:8080/live/Bryants/Love1/120996.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Brisbane (D)" tvg-logo="" group-title="Australia",AU 10 Shake Brisbane (D)
+http://fortv.cc:8080/live/Bryants/Love1/120997.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Canberra (D)" tvg-logo="" group-title="Australia",AU 10 Shake Canberra (D)
+http://fortv.cc:8080/live/Bryants/Love1/120998.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Darwin (D)" tvg-logo="" group-title="Australia",AU 10 Shake Darwin (D)
+http://fortv.cc:8080/live/Bryants/Love1/120999.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Hobart (D)" tvg-logo="" group-title="Australia",AU 10 Shake Hobart (D)
+http://fortv.cc:8080/live/Bryants/Love1/121000.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Melbourne (D)" tvg-logo="" group-title="Australia",AU 10 Shake Melbourne (D)
+http://fortv.cc:8080/live/Bryants/Love1/121001.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Perth (D)" tvg-logo="" group-title="Australia",AU 10 Shake Perth (D)
+http://fortv.cc:8080/live/Bryants/Love1/121002.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU 10 Shake Sydney (D)" tvg-logo="" group-title="Australia",AU 10 Shake Sydney (D)
+http://fortv.cc:8080/live/Bryants/Love1/121003.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AU ABC News Sydney (D)" tvg-logo="" group-title="Australia",AU ABC News Sydney (D)
+http://fortv.cc:8080/live/Bryants/Love1/121004.ts

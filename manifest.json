@@ -464,7 +464,7 @@
   ],
   "behaviorHints": {
     "configurable": true,
-    "configureUrl": "https://raw.githubusercontent.com/veracsz/Uploads/refs/heads/main/manifest.json"
+    "configureUrl": "https://cdn.jsdelivr.net/gh/veracsz/Uploads@main/manifest.json"
   },
   "logo": "https://raw.githubusercontent.com/joaosavi/nexotv/refs/heads/main/packages/frontend/public/assets/logo.svg",
   "background": "https://raw.githubusercontent.com/joaosavi/nexotv/refs/heads/main/packages/frontend/public/assets/background.png"
